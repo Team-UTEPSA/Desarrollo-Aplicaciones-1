@@ -1,0 +1,5 @@
+D:\Proyectos\C#\pjtC_Struct_v02\pjtC_Struct_v02\bin\Debug\pjtC_Struct_v02.exe.config
+D:\Proyectos\C#\pjtC_Struct_v02\pjtC_Struct_v02\bin\Debug\pjtC_Struct_v02.exe
+D:\Proyectos\C#\pjtC_Struct_v02\pjtC_Struct_v02\bin\Debug\pjtC_Struct_v02.pdb
+D:\Proyectos\C#\pjtC_Struct_v02\pjtC_Struct_v02\obj\Debug\pjtC_Struct_v02.exe
+D:\Proyectos\C#\pjtC_Struct_v02\pjtC_Struct_v02\obj\Debug\pjtC_Struct_v02.pdb

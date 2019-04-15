@@ -1,0 +1,57 @@
+Implementacion de parte del DISPOSITIVO con acceso al servidor SERVIDOR
+
+
+como HACER CORRER EL PROGRAMA
+-------------------------
+
+1. Iniciar la depuracion > de la aplicación
+2. Elegir el dispositivo: Pocket PC 2003 SE - Emulador
+3. Clic en: Implementar
+
+4. Publicar la disponibilidad del dispositivo 
+   haciendo Clic en el menú: Herramientas
+5. Clic en: Administradores de emuladores de dispositivos
+6. Clic en: Actualizar
+7. Clic secundario en: > Pocket PC 2003 SE - Emulador
+8. Clic en: Colocar en la base
+
+9. Hablilitar la conexión entre el dispositivo y el servidor
+   iniando: Microsoft ActiveSync
+10. Clic en: File
+11. Connection Settings...
+12. Activar casillas de verificación:
+    . Show status icon in taskbar
+    . Allow USB connections
+    . Allow connections to one of the following: DMA
+    . This computer is connected to: Automatic
+13. Clic en: Connect...
+14. Clic en: Siguiente>
+15. Activar radio boton
+    . Guest partnership
+16. Clic en: Siguiente>
+
+17. Abrir Base de Datos en el Dispositivo Movil
+    Clic en: Inicio
+18. Clic en: Explorador de archivos
+19. Ir a: Mi dispositivo
+20. Clic en: Archivo de programas
+21. Clic en: Presentacion
+22. Clic en: dbLM (Base de Datos)
+
+23. Iniciar aplicacion: Presentacion (.exe)
+
+
+*** ERROR ***
+*************
+
+- Para que se conecte con el servidor debe existir una conexion a RED
+- Si no conecta al SERVIDOR se debe verificar si la Base de Datos
+  esta con viculo activo o no
+- Se debe guardar el estado del dispositivo en caso de que la
+  configuracion sea basica
+- Se debe abrir la Base de Datos Movil manualmente, cada vez
+  que se inicie el dispositivo
+- La creacion de la Base de Datos del dispositivo se lo debe hacer
+  agregando un nuevo elemento en la Capa de Negocio
+
+

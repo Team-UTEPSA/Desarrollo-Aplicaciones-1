@@ -1,0 +1,9 @@
+D:\Proyectos\C#\pjtC_Ventas_v0.02\pjtC_Ventas_v0.02\bin\Debug\pjtC_Ventas_v0.02.exe.config
+D:\Proyectos\C#\pjtC_Ventas_v0.02\pjtC_Ventas_v0.02\bin\Debug\pjtC_Ventas_v0.02.exe
+D:\Proyectos\C#\pjtC_Ventas_v0.02\pjtC_Ventas_v0.02\bin\Debug\pjtC_Ventas_v0.02.pdb
+D:\Proyectos\C#\pjtC_Ventas_v0.02\pjtC_Ventas_v0.02\obj\Debug\pjtC_Ventas_v0.02.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtC_Ventas_v0.02\pjtC_Ventas_v0.02\obj\Debug\pjtC_Ventas_v0.02.exe
+D:\Proyectos\C#\pjtC_Ventas_v0.02\pjtC_Ventas_v0.02\obj\Debug\pjtC_Ventas_v0.02.pdb
+D:\Proyectos\C#\pjtC_Ventas_v02\pjtC_Ventas_v0.02\bin\Debug\pjtC_Ventas_v0.02.exe.config
+D:\Proyectos\C#\pjtC_Ventas_v02\pjtC_Ventas_v0.02\obj\Debug\pjtC_Ventas_v0.02.exe
+D:\Proyectos\C#\pjtC_Ventas_v02\pjtC_Ventas_v0.02\obj\Debug\pjtC_Ventas_v0.02.pdb

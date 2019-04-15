@@ -1,0 +1,5 @@
+D:\Proyectos\C#\pjtC_Funciones_Procedimientos_v03\pjtC_Funciones_Procedimientos_v03\bin\Debug\pjtC_Funciones_Procedimientos_v03.exe.config
+D:\Proyectos\C#\pjtC_Funciones_Procedimientos_v03\pjtC_Funciones_Procedimientos_v03\bin\Debug\pjtC_Funciones_Procedimientos_v03.exe
+D:\Proyectos\C#\pjtC_Funciones_Procedimientos_v03\pjtC_Funciones_Procedimientos_v03\bin\Debug\pjtC_Funciones_Procedimientos_v03.pdb
+D:\Proyectos\C#\pjtC_Funciones_Procedimientos_v03\pjtC_Funciones_Procedimientos_v03\obj\Debug\pjtC_Funciones_Procedimientos_v03.exe
+D:\Proyectos\C#\pjtC_Funciones_Procedimientos_v03\pjtC_Funciones_Procedimientos_v03\obj\Debug\pjtC_Funciones_Procedimientos_v03.pdb

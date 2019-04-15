@@ -1,0 +1,5 @@
+D:\Proyectos\C#\pjtC_Vector003\pjtC_Vector003\bin\Debug\pjtC_Vector003.exe.config
+D:\Proyectos\C#\pjtC_Vector003\pjtC_Vector003\bin\Debug\pjtC_Vector003.exe
+D:\Proyectos\C#\pjtC_Vector003\pjtC_Vector003\bin\Debug\pjtC_Vector003.pdb
+D:\Proyectos\C#\pjtC_Vector003\pjtC_Vector003\obj\Debug\pjtC_Vector003.exe
+D:\Proyectos\C#\pjtC_Vector003\pjtC_Vector003\obj\Debug\pjtC_Vector003.pdb

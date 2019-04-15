@@ -1,0 +1,6 @@
+D:\Proyectos\C#\pjtC_Lab_001\pjtC_Lab_001\bin\Debug\pjtC_Lab_001.exe.config
+D:\Proyectos\C#\pjtC_Lab_001\pjtC_Lab_001\bin\Debug\pjtC_Lab_001.exe
+D:\Proyectos\C#\pjtC_Lab_001\pjtC_Lab_001\bin\Debug\pjtC_Lab_001.pdb
+D:\Proyectos\C#\pjtC_Lab_001\pjtC_Lab_001\obj\Debug\pjtC_Lab_001.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtC_Lab_001\pjtC_Lab_001\obj\Debug\pjtC_Lab_001.exe
+D:\Proyectos\C#\pjtC_Lab_001\pjtC_Lab_001\obj\Debug\pjtC_Lab_001.pdb

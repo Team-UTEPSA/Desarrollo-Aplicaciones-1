@@ -1,0 +1,6 @@
+D:\Proyectos\C#\pjtC_Vector001\pjtC_Vector001\bin\Debug\pjtC_Vector001.exe.config
+D:\Proyectos\C#\pjtC_Vector001\pjtC_Vector001\bin\Debug\pjtC_Vector001.exe
+D:\Proyectos\C#\pjtC_Vector001\pjtC_Vector001\bin\Debug\pjtC_Vector001.pdb
+D:\Proyectos\C#\pjtC_Vector001\pjtC_Vector001\obj\Debug\pjtC_Vector001.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtC_Vector001\pjtC_Vector001\obj\Debug\pjtC_Vector001.exe
+D:\Proyectos\C#\pjtC_Vector001\pjtC_Vector001\obj\Debug\pjtC_Vector001.pdb

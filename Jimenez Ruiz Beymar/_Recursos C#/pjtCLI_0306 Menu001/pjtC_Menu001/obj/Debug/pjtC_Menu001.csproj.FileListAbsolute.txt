@@ -1,0 +1,6 @@
+D:\Proyectos\C#\pjtC_Menu001\pjtC_Menu001\bin\Debug\pjtC_Menu001.exe.config
+D:\Proyectos\C#\pjtC_Menu001\pjtC_Menu001\bin\Debug\pjtC_Menu001.exe
+D:\Proyectos\C#\pjtC_Menu001\pjtC_Menu001\bin\Debug\pjtC_Menu001.pdb
+D:\Proyectos\C#\pjtC_Menu001\pjtC_Menu001\obj\Debug\pjtC_Menu001.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtC_Menu001\pjtC_Menu001\obj\Debug\pjtC_Menu001.exe
+D:\Proyectos\C#\pjtC_Menu001\pjtC_Menu001\obj\Debug\pjtC_Menu001.pdb

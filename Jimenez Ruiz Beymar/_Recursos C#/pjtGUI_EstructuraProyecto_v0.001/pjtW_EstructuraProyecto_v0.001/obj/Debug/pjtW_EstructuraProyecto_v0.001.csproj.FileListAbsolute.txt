@@ -1,0 +1,9 @@
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\bin\Debug\pjtW_EstructuraProyecto_v0.001.exe.config
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\bin\Debug\pjtW_EstructuraProyecto_v0.001.exe
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\bin\Debug\pjtW_EstructuraProyecto_v0.001.pdb
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\obj\Debug\pjtW_EstructuraProyecto_v0.001.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\obj\Debug\pjtW_EstructuraProyecto_v0._001.frmPrincipal.resources
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\obj\Debug\pjtW_EstructuraProyecto_v0._001.Properties.Resources.resources
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\obj\Debug\pjtW_EstructuraProyecto_v0.001.csproj.GenerateResource.Cache
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\obj\Debug\pjtW_EstructuraProyecto_v0.001.exe
+D:\Proyectos\C#\pjtW_EstructuraProyecto_v0.001\pjtW_EstructuraProyecto_v0.001\obj\Debug\pjtW_EstructuraProyecto_v0.001.pdb

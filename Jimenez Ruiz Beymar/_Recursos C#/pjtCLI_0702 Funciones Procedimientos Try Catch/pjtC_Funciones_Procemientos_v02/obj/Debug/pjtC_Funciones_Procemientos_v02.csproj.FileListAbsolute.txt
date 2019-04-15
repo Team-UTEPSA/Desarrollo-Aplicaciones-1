@@ -1,0 +1,6 @@
+D:\Proyectos\C#\pjtC_Funciones_Procemientos_v02\pjtC_Funciones_Procemientos_v02\bin\Debug\pjtC_Funciones_Procemientos_v02.exe.config
+D:\Proyectos\C#\pjtC_Funciones_Procemientos_v02\pjtC_Funciones_Procemientos_v02\bin\Debug\pjtC_Funciones_Procemientos_v02.exe
+D:\Proyectos\C#\pjtC_Funciones_Procemientos_v02\pjtC_Funciones_Procemientos_v02\bin\Debug\pjtC_Funciones_Procemientos_v02.pdb
+D:\Proyectos\C#\pjtC_Funciones_Procemientos_v02\pjtC_Funciones_Procemientos_v02\obj\Debug\pjtC_Funciones_Procemientos_v02.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtC_Funciones_Procemientos_v02\pjtC_Funciones_Procemientos_v02\obj\Debug\pjtC_Funciones_Procemientos_v02.exe
+D:\Proyectos\C#\pjtC_Funciones_Procemientos_v02\pjtC_Funciones_Procemientos_v02\obj\Debug\pjtC_Funciones_Procemientos_v02.pdb

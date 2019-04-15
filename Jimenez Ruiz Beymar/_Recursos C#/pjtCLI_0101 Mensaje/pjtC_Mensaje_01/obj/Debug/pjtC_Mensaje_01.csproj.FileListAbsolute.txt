@@ -1,0 +1,6 @@
+D:\Proyectos\C#\pjtC_Mensaje_01\pjtC_Mensaje_01\bin\Debug\pjtC_Mensaje_01.exe.config
+D:\Proyectos\C#\pjtC_Mensaje_01\pjtC_Mensaje_01\bin\Debug\pjtC_Mensaje_01.exe
+D:\Proyectos\C#\pjtC_Mensaje_01\pjtC_Mensaje_01\bin\Debug\pjtC_Mensaje_01.pdb
+D:\Proyectos\C#\pjtC_Mensaje_01\pjtC_Mensaje_01\obj\Debug\pjtC_Mensaje_01.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtC_Mensaje_01\pjtC_Mensaje_01\obj\Debug\pjtC_Mensaje_01.exe
+D:\Proyectos\C#\pjtC_Mensaje_01\pjtC_Mensaje_01\obj\Debug\pjtC_Mensaje_01.pdb

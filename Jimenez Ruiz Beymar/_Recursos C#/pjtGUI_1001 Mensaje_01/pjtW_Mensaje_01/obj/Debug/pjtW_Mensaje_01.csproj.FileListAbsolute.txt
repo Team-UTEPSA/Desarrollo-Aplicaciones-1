@@ -1,0 +1,9 @@
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\bin\Debug\pjtW_Mensaje_01.exe.config
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\bin\Debug\pjtW_Mensaje_01.exe
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\bin\Debug\pjtW_Mensaje_01.pdb
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\obj\Debug\pjtW_Mensaje_01.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\obj\Debug\pjtW_Mensaje_01.Form1.resources
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\obj\Debug\pjtW_Mensaje_01.Properties.Resources.resources
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\obj\Debug\pjtW_Mensaje_01.csproj.GenerateResource.Cache
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\obj\Debug\pjtW_Mensaje_01.exe
+D:\Proyectos\C#\pjtW_Mensaje_01\pjtW_Mensaje_01\obj\Debug\pjtW_Mensaje_01.pdb

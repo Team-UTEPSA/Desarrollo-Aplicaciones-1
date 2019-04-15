@@ -1,0 +1,6 @@
+D:\Proyectos\C#\pjtC_ListaStruct_v01\pjtC_ListaStruct_v01\bin\Debug\pjtC_ListaStruct_v01.exe.config
+D:\Proyectos\C#\pjtC_ListaStruct_v01\pjtC_ListaStruct_v01\obj\Debug\pjtC_ListaStruct_v01.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtC_ListaStruct_v01\pjtC_ListaStruct_v01\bin\Debug\pjtC_ListaStruct_v01.exe
+D:\Proyectos\C#\pjtC_ListaStruct_v01\pjtC_ListaStruct_v01\bin\Debug\pjtC_ListaStruct_v01.pdb
+D:\Proyectos\C#\pjtC_ListaStruct_v01\pjtC_ListaStruct_v01\obj\Debug\pjtC_ListaStruct_v01.exe
+D:\Proyectos\C#\pjtC_ListaStruct_v01\pjtC_ListaStruct_v01\obj\Debug\pjtC_ListaStruct_v01.pdb

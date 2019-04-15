@@ -1,0 +1,5 @@
+D:\Proyectos\C#\pjtC_Lab002\pjtC_Lab002\bin\Debug\pjtC_Lab002.exe.config
+D:\Proyectos\C#\pjtC_Lab002\pjtC_Lab002\bin\Debug\pjtC_Lab002.exe
+D:\Proyectos\C#\pjtC_Lab002\pjtC_Lab002\bin\Debug\pjtC_Lab002.pdb
+D:\Proyectos\C#\pjtC_Lab002\pjtC_Lab002\obj\Debug\pjtC_Lab002.exe
+D:\Proyectos\C#\pjtC_Lab002\pjtC_Lab002\obj\Debug\pjtC_Lab002.pdb

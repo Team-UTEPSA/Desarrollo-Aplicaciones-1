@@ -1,0 +1,6 @@
+D:\Proyectos\C#\pjtC_Sumatoria_01\pjtC_Sumatoria_01\bin\Debug\pjtC_Sumatoria_01.exe.config
+D:\Proyectos\C#\pjtC_Sumatoria_01\pjtC_Sumatoria_01\obj\Debug\pjtC_Sumatoria_01.csprojResolveAssemblyReference.cache
+D:\Proyectos\C#\pjtC_Sumatoria_01\pjtC_Sumatoria_01\bin\Debug\pjtC_Sumatoria_01.exe
+D:\Proyectos\C#\pjtC_Sumatoria_01\pjtC_Sumatoria_01\bin\Debug\pjtC_Sumatoria_01.pdb
+D:\Proyectos\C#\pjtC_Sumatoria_01\pjtC_Sumatoria_01\obj\Debug\pjtC_Sumatoria_01.exe
+D:\Proyectos\C#\pjtC_Sumatoria_01\pjtC_Sumatoria_01\obj\Debug\pjtC_Sumatoria_01.pdb

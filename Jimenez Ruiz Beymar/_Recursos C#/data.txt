@@ -1,0 +1,11 @@
+Hola mundo
+Como están
+
+Este es un archivo
+que está leido
+desde la consola
+
+En cada lectura
+lee una línea
+hasta encontrar
+el EOF o fin de archivo
