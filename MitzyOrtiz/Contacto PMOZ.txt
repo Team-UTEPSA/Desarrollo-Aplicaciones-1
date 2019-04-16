@@ -1,4 +1,6 @@
+Usuario: mitzyortizz
 Nombre completo: Paula Mitzy Ortiz Zabala
 Rol: Tester
 Celular: 70998869
 Email: mitzyortizzabala@gmail.com
+Web: www.code.com
