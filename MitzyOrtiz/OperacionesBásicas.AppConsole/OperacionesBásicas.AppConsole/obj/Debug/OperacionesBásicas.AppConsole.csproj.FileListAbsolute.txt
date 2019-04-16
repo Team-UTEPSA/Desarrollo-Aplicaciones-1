@@ -1,0 +1,6 @@
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\OperacionesBásicas.AppConsole\OperacionesBásicas.AppConsole\bin\Debug\OperacionesBásicas.AppConsole.exe.config
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\OperacionesBásicas.AppConsole\OperacionesBásicas.AppConsole\obj\Debug\OperacionesBásicas.AppConsole.csprojResolveAssemblyReference.cache
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\OperacionesBásicas.AppConsole\OperacionesBásicas.AppConsole\bin\Debug\OperacionesBásicas.AppConsole.exe
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\OperacionesBásicas.AppConsole\OperacionesBásicas.AppConsole\bin\Debug\OperacionesBásicas.AppConsole.pdb
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\OperacionesBásicas.AppConsole\OperacionesBásicas.AppConsole\obj\Debug\OperacionesBásicas.AppConsole.exe
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\OperacionesBásicas.AppConsole\OperacionesBásicas.AppConsole\obj\Debug\OperacionesBásicas.AppConsole.pdb
