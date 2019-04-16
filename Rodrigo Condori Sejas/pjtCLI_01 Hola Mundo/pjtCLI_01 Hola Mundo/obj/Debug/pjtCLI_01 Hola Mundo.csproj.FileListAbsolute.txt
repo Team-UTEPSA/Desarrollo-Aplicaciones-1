@@ -1,0 +1,6 @@
+C:\Users\RODRIGO\Desktop\DAP I - Practicas\3ra Clase Ejemplos\1\pjtCLI_01 Hola Mundo\pjtCLI_01 Hola Mundo\bin\Debug\pjtCLI_01 Hola Mundo.exe.config
+C:\Users\RODRIGO\Desktop\DAP I - Practicas\3ra Clase Ejemplos\1\pjtCLI_01 Hola Mundo\pjtCLI_01 Hola Mundo\bin\Debug\pjtCLI_01 Hola Mundo.exe
+C:\Users\RODRIGO\Desktop\DAP I - Practicas\3ra Clase Ejemplos\1\pjtCLI_01 Hola Mundo\pjtCLI_01 Hola Mundo\bin\Debug\pjtCLI_01 Hola Mundo.pdb
+C:\Users\RODRIGO\Desktop\DAP I - Practicas\3ra Clase Ejemplos\1\pjtCLI_01 Hola Mundo\pjtCLI_01 Hola Mundo\obj\Debug\pjtCLI_01 Hola Mundo.csprojResolveAssemblyReference.cache
+C:\Users\RODRIGO\Desktop\DAP I - Practicas\3ra Clase Ejemplos\1\pjtCLI_01 Hola Mundo\pjtCLI_01 Hola Mundo\obj\Debug\pjtCLI_01 Hola Mundo.exe
+C:\Users\RODRIGO\Desktop\DAP I - Practicas\3ra Clase Ejemplos\1\pjtCLI_01 Hola Mundo\pjtCLI_01 Hola Mundo\obj\Debug\pjtCLI_01 Hola Mundo.pdb

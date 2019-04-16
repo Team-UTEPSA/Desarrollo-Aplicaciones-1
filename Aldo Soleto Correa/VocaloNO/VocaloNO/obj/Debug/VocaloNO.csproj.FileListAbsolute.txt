@@ -1,0 +1,6 @@
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\bin\Debug\VocaloNO.exe.config
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\bin\Debug\VocaloNO.exe
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\bin\Debug\VocaloNO.pdb
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\obj\Debug\VocaloNO.csprojResolveAssemblyReference.cache
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\obj\Debug\VocaloNO.exe
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\obj\Debug\VocaloNO.pdb
