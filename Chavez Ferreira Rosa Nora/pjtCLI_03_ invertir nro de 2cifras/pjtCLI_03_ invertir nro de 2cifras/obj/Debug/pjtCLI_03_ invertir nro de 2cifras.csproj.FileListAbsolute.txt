@@ -1,0 +1,9 @@
+C:\Users\503141\Desktop\DAP1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\bin\Debug\pjtCLI_03_ invertir nro de 2cifras.exe.config
+C:\Users\503141\Desktop\DAP1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\bin\Debug\pjtCLI_03_ invertir nro de 2cifras.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\bin\Debug\pjtCLI_03_ invertir nro de 2cifras.pdb
+C:\Users\503141\Desktop\DAP1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\obj\Debug\pjtCLI_03_ invertir nro de 2cifras.csprojResolveAssemblyReference.cache
+C:\Users\503141\Desktop\DAP1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\obj\Debug\pjtCLI_03_ invertir nro de 2cifras.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\obj\Debug\pjtCLI_03_ invertir nro de 2cifras.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\bin\Debug\pjtCLI_03_ invertir nro de 2cifras.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\obj\Debug\pjtCLI_03_ invertir nro de 2cifras.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_03_ invertir nro de 2cifras\pjtCLI_03_ invertir nro de 2cifras\obj\Debug\pjtCLI_03_ invertir nro de 2cifras.pdb
