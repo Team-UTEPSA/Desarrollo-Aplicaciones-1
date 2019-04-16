@@ -1,0 +1,15 @@
+C:\Users\503141\Desktop\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\bin\Debug\pjtCLI_05 operaciones basicas.exe.config
+C:\Users\503141\Desktop\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\bin\Debug\pjtCLI_05 operaciones basicas.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\bin\Debug\pjtCLI_05 operaciones basicas.pdb
+C:\Users\503141\Desktop\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\obj\Debug\pjtCLI_05 operaciones basicas.csprojResolveAssemblyReference.cache
+C:\Users\503141\Desktop\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\obj\Debug\pjtCLI_05 operaciones basicas.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\obj\Debug\pjtCLI_05 operaciones basicas.pdb
+E:\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\bin\Debug\pjtCLI_05 operaciones basicas.exe.config
+E:\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\obj\Debug\pjtCLI_05 operaciones basicas.exe
+E:\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\obj\Debug\pjtCLI_05 operaciones basicas.pdb
+E:\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\bin\Debug\pjtCLI_05 operaciones basicas.exe
+E:\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\bin\Debug\pjtCLI_05 operaciones basicas.pdb
+E:\DAP1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\obj\Debug\pjtCLI_05 operaciones basicas.csprojResolveAssemblyReference.cache
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\bin\Debug\pjtCLI_05 operaciones basicas.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\obj\Debug\pjtCLI_05 operaciones basicas.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_05 operaciones basicas\pjtCLI_05 operaciones basicas\obj\Debug\pjtCLI_05 operaciones basicas.pdb
