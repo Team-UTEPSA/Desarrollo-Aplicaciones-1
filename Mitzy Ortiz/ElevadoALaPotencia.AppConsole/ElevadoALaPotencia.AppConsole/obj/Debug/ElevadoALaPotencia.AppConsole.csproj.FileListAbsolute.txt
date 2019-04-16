@@ -1,0 +1,6 @@
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\ElevadoALaPotencia.AppConsole\ElevadoALaPotencia.AppConsole\bin\Debug\ElevadoALaPotencia.AppConsole.exe.config
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\ElevadoALaPotencia.AppConsole\ElevadoALaPotencia.AppConsole\bin\Debug\ElevadoALaPotencia.AppConsole.exe
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\ElevadoALaPotencia.AppConsole\ElevadoALaPotencia.AppConsole\bin\Debug\ElevadoALaPotencia.AppConsole.pdb
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\ElevadoALaPotencia.AppConsole\ElevadoALaPotencia.AppConsole\obj\Debug\ElevadoALaPotencia.AppConsole.csprojResolveAssemblyReference.cache
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\ElevadoALaPotencia.AppConsole\ElevadoALaPotencia.AppConsole\obj\Debug\ElevadoALaPotencia.AppConsole.exe
+C:\Users\Mitzy Ortiz Zabala\Desktop\DAP1\Proyectos\Tareas\ElevadoALaPotencia.AppConsole\ElevadoALaPotencia.AppConsole\obj\Debug\ElevadoALaPotencia.AppConsole.pdb
