@@ -1,0 +1,12 @@
+C:\Users\508097\Desktop\DAB1\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\bin\Debug\pjtCLI-04 invetir numero de tres cifras.exe.config
+C:\Users\508097\Desktop\DAB1\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\bin\Debug\pjtCLI-04 invetir numero de tres cifras.exe
+C:\Users\508097\Desktop\DAB1\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\bin\Debug\pjtCLI-04 invetir numero de tres cifras.pdb
+C:\Users\508097\Desktop\DAB1\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\obj\Debug\pjtCLI-04 invetir numero de tres cifras.exe
+C:\Users\508097\Desktop\DAB1\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\obj\Debug\pjtCLI-04 invetir numero de tres cifras.pdb
+C:\UTEPSA\DAB1\practicas\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\bin\Debug\pjtCLI-04 invetir numero de tres cifras.exe.config
+C:\UTEPSA\DAB1\practicas\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\bin\Debug\pjtCLI-04 invetir numero de tres cifras.exe
+C:\UTEPSA\DAB1\practicas\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\bin\Debug\pjtCLI-04 invetir numero de tres cifras.pdb
+C:\UTEPSA\DAB1\practicas\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\obj\Debug\pjtCLI-04 invetir numero de tres cifras.csprojAssemblyReference.cache
+C:\UTEPSA\DAB1\practicas\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\obj\Debug\pjtCLI-04 invetir numero de tres cifras.csproj.CoreCompileInputs.cache
+C:\UTEPSA\DAB1\practicas\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\obj\Debug\pjtCLI-04 invetir numero de tres cifras.exe
+C:\UTEPSA\DAB1\practicas\pjtCLI-04 invetir numero de tres cifras\pjtCLI-04 invetir numero de tres cifras\obj\Debug\pjtCLI-04 invetir numero de tres cifras.pdb
