@@ -1,0 +1,6 @@
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\InvertirFrase\bin\Debug\InvertirFrase.exe.config
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\InvertirFrase\bin\Debug\InvertirFrase.exe
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\InvertirFrase\bin\Debug\InvertirFrase.pdb
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\InvertirFrase\obj\Debug\InvertirFrase.exe
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\InvertirFrase\obj\Debug\InvertirFrase.pdb
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\InvertirFrase\obj\Debug\InvertirFrase.csprojResolveAssemblyReference.cache

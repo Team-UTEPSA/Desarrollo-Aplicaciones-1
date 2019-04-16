@@ -1,0 +1,4 @@
+Nombre: Rodrigo Condori Sejas
+Rol: Developer
+Celular: 60856818
+Email: rodrigo.csejas@gmail.com
