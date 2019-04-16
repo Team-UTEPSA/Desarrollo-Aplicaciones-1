@@ -1,4 +1,6 @@
+Usuario:asoletoc
 Nombre completo: Aldo Soleto Correa 
 Rol: Developer 
 Celular: 76015428
 email: aldosoleto@gmail.com
+web: www.skynet.com
