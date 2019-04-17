@@ -1,0 +1,6 @@
+D:\Proyectos\DA1\pjtCLI_0401 Menu de opciones\pjtCLI_0401 Menu de opciones\bin\Debug\pjtCLI_0401 Menu de opciones.exe.config
+D:\Proyectos\DA1\pjtCLI_0401 Menu de opciones\pjtCLI_0401 Menu de opciones\bin\Debug\pjtCLI_0401 Menu de opciones.exe
+D:\Proyectos\DA1\pjtCLI_0401 Menu de opciones\pjtCLI_0401 Menu de opciones\bin\Debug\pjtCLI_0401 Menu de opciones.pdb
+D:\Proyectos\DA1\pjtCLI_0401 Menu de opciones\pjtCLI_0401 Menu de opciones\obj\Debug\pjtCLI_0401 Menu de opciones.csprojResolveAssemblyReference.cache
+D:\Proyectos\DA1\pjtCLI_0401 Menu de opciones\pjtCLI_0401 Menu de opciones\obj\Debug\pjtCLI_0401 Menu de opciones.exe
+D:\Proyectos\DA1\pjtCLI_0401 Menu de opciones\pjtCLI_0401 Menu de opciones\obj\Debug\pjtCLI_0401 Menu de opciones.pdb
