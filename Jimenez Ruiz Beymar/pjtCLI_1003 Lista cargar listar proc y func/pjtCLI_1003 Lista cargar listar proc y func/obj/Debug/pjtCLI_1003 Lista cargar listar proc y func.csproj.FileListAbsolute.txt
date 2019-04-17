@@ -1,0 +1,6 @@
+D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\bin\Debug\pjtCLI_1003 Lista cargar listar proc y func.exe.config
+D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\bin\Debug\pjtCLI_1003 Lista cargar listar proc y func.exe
+D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\bin\Debug\pjtCLI_1003 Lista cargar listar proc y func.pdb
+D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.csprojResolveAssemblyReference.cache
+D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.exe
+D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.pdb
