@@ -1,0 +1,6 @@
+D:\Proyectos\DA1\pjtCLI_1005 lista validar entradas\pjtCLI_1005 lista validar entradas\bin\Debug\pjtCLI_1005 lista validar entradas.exe.config
+D:\Proyectos\DA1\pjtCLI_1005 lista validar entradas\pjtCLI_1005 lista validar entradas\bin\Debug\pjtCLI_1005 lista validar entradas.exe
+D:\Proyectos\DA1\pjtCLI_1005 lista validar entradas\pjtCLI_1005 lista validar entradas\bin\Debug\pjtCLI_1005 lista validar entradas.pdb
+D:\Proyectos\DA1\pjtCLI_1005 lista validar entradas\pjtCLI_1005 lista validar entradas\obj\Debug\pjtCLI_1005 lista validar entradas.exe
+D:\Proyectos\DA1\pjtCLI_1005 lista validar entradas\pjtCLI_1005 lista validar entradas\obj\Debug\pjtCLI_1005 lista validar entradas.pdb
+D:\Proyectos\DA1\pjtCLI_1005 lista validar entradas\pjtCLI_1005 lista validar entradas\obj\Debug\pjtCLI_1005 lista validar entradas.csprojResolveAssemblyReference.cache
