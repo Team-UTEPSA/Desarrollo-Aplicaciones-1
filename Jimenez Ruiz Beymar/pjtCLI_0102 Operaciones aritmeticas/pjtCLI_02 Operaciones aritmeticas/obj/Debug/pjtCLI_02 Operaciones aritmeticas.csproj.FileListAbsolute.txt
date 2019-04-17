@@ -1,0 +1,6 @@
+D:\Proyectos\DA1\pjtCLI_02 Operaciones aritmeticas\pjtCLI_02 Operaciones aritmeticas\bin\Debug\pjtCLI_02 Operaciones aritmeticas.exe.config
+D:\Proyectos\DA1\pjtCLI_02 Operaciones aritmeticas\pjtCLI_02 Operaciones aritmeticas\bin\Debug\pjtCLI_02 Operaciones aritmeticas.exe
+D:\Proyectos\DA1\pjtCLI_02 Operaciones aritmeticas\pjtCLI_02 Operaciones aritmeticas\bin\Debug\pjtCLI_02 Operaciones aritmeticas.pdb
+D:\Proyectos\DA1\pjtCLI_02 Operaciones aritmeticas\pjtCLI_02 Operaciones aritmeticas\obj\Debug\pjtCLI_02 Operaciones aritmeticas.exe
+D:\Proyectos\DA1\pjtCLI_02 Operaciones aritmeticas\pjtCLI_02 Operaciones aritmeticas\obj\Debug\pjtCLI_02 Operaciones aritmeticas.pdb
+D:\Proyectos\DA1\pjtCLI_02 Operaciones aritmeticas\pjtCLI_02 Operaciones aritmeticas\obj\Debug\pjtCLI_02 Operaciones aritmeticas.csprojResolveAssemblyReference.cache
