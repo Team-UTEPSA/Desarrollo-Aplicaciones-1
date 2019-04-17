@@ -1,0 +1,6 @@
+D:\Proyectos\DA1\pjtCLI_01 Hola mundo\pjtCLI_01 Hola mundo\bin\Debug\pjtCLI_01 Hola mundo.exe.config
+D:\Proyectos\DA1\pjtCLI_01 Hola mundo\pjtCLI_01 Hola mundo\bin\Debug\pjtCLI_01 Hola mundo.exe
+D:\Proyectos\DA1\pjtCLI_01 Hola mundo\pjtCLI_01 Hola mundo\bin\Debug\pjtCLI_01 Hola mundo.pdb
+D:\Proyectos\DA1\pjtCLI_01 Hola mundo\pjtCLI_01 Hola mundo\obj\Debug\pjtCLI_01 Hola mundo.csprojResolveAssemblyReference.cache
+D:\Proyectos\DA1\pjtCLI_01 Hola mundo\pjtCLI_01 Hola mundo\obj\Debug\pjtCLI_01 Hola mundo.exe
+D:\Proyectos\DA1\pjtCLI_01 Hola mundo\pjtCLI_01 Hola mundo\obj\Debug\pjtCLI_01 Hola mundo.pdb
