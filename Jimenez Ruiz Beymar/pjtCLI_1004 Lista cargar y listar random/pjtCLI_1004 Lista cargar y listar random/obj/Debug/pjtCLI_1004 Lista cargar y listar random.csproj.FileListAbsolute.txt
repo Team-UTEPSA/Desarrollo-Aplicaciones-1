@@ -1,0 +1,6 @@
+D:\Proyectos\DA1\pjtCLI_1004 Lista cargar y listar random\pjtCLI_1004 Lista cargar y listar random\bin\Debug\pjtCLI_1004 Lista cargar y listar random.exe.config
+D:\Proyectos\DA1\pjtCLI_1004 Lista cargar y listar random\pjtCLI_1004 Lista cargar y listar random\bin\Debug\pjtCLI_1004 Lista cargar y listar random.exe
+D:\Proyectos\DA1\pjtCLI_1004 Lista cargar y listar random\pjtCLI_1004 Lista cargar y listar random\bin\Debug\pjtCLI_1004 Lista cargar y listar random.pdb
+D:\Proyectos\DA1\pjtCLI_1004 Lista cargar y listar random\pjtCLI_1004 Lista cargar y listar random\obj\Debug\pjtCLI_1004 Lista cargar y listar random.exe
+D:\Proyectos\DA1\pjtCLI_1004 Lista cargar y listar random\pjtCLI_1004 Lista cargar y listar random\obj\Debug\pjtCLI_1004 Lista cargar y listar random.pdb
+D:\Proyectos\DA1\pjtCLI_1004 Lista cargar y listar random\pjtCLI_1004 Lista cargar y listar random\obj\Debug\pjtCLI_1004 Lista cargar y listar random.csprojResolveAssemblyReference.cache
