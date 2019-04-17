@@ -1,0 +1,6 @@
+D:\Proyectos\DA1\pjtCLI_03 Invertir un numero de dos cifras\pjtCLI_03 Invertir un numero de dos cifras\bin\Debug\pjtCLI_03 Invertir un numero de dos cifras.exe.config
+D:\Proyectos\DA1\pjtCLI_03 Invertir un numero de dos cifras\pjtCLI_03 Invertir un numero de dos cifras\bin\Debug\pjtCLI_03 Invertir un numero de dos cifras.exe
+D:\Proyectos\DA1\pjtCLI_03 Invertir un numero de dos cifras\pjtCLI_03 Invertir un numero de dos cifras\bin\Debug\pjtCLI_03 Invertir un numero de dos cifras.pdb
+D:\Proyectos\DA1\pjtCLI_03 Invertir un numero de dos cifras\pjtCLI_03 Invertir un numero de dos cifras\obj\Debug\pjtCLI_03 Invertir un numero de dos cifras.csprojResolveAssemblyReference.cache
+D:\Proyectos\DA1\pjtCLI_03 Invertir un numero de dos cifras\pjtCLI_03 Invertir un numero de dos cifras\obj\Debug\pjtCLI_03 Invertir un numero de dos cifras.exe
+D:\Proyectos\DA1\pjtCLI_03 Invertir un numero de dos cifras\pjtCLI_03 Invertir un numero de dos cifras\obj\Debug\pjtCLI_03 Invertir un numero de dos cifras.pdb
