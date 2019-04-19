@@ -4,3 +4,9 @@ D:\Proyectos\DA1\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista car
 D:\Proyectos\DA1\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\obj\Debug\pjtCLI_1001 Lista cargar y mostrar entero.csprojResolveAssemblyReference.cache
 D:\Proyectos\DA1\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\obj\Debug\pjtCLI_1001 Lista cargar y mostrar entero.exe
 D:\Proyectos\DA1\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\obj\Debug\pjtCLI_1001 Lista cargar y mostrar entero.pdb
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\bin\Debug\pjtCLI_1001 Lista cargar y mostrar entero.exe.config
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\obj\Debug\pjtCLI_1001 Lista cargar y mostrar entero.pdb
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\bin\Debug\pjtCLI_1001 Lista cargar y mostrar entero.exe
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\bin\Debug\pjtCLI_1001 Lista cargar y mostrar entero.pdb
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\obj\Debug\pjtCLI_1001 Lista cargar y mostrar entero.csprojResolveAssemblyReference.cache
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1001 Lista cargar y mostrar entero\pjtCLI_1001 Lista cargar y mostrar entero\obj\Debug\pjtCLI_1001 Lista cargar y mostrar entero.exe

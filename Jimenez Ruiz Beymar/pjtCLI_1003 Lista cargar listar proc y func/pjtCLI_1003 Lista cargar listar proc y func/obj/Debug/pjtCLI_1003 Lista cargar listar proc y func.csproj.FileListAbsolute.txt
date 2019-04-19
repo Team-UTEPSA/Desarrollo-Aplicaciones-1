@@ -4,3 +4,9 @@ D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista c
 D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.csprojResolveAssemblyReference.cache
 D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.exe
 D:\Proyectos\DA1\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.pdb
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\bin\Debug\pjtCLI_1003 Lista cargar listar proc y func.exe.config
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.pdb
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\bin\Debug\pjtCLI_1003 Lista cargar listar proc y func.exe
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\bin\Debug\pjtCLI_1003 Lista cargar listar proc y func.pdb
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.csprojResolveAssemblyReference.cache
+D:\Escritorio\UTEPSA\Dab 1\Desarrollo-Aplicaciones-1\Jimenez Ruiz Beymar\pjtCLI_1003 Lista cargar listar proc y func\pjtCLI_1003 Lista cargar listar proc y func\obj\Debug\pjtCLI_1003 Lista cargar listar proc y func.exe

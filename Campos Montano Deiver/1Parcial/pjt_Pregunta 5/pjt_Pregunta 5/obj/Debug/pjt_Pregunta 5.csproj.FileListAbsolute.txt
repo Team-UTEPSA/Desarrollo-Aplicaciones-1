@@ -1,0 +1,6 @@
+D:\Escritorio\1Parcial\pjt_Pregunta 5\pjt_Pregunta 5\bin\Debug\pjt_Pregunta 5.exe.config
+D:\Escritorio\1Parcial\pjt_Pregunta 5\pjt_Pregunta 5\obj\Debug\pjt_Pregunta 5.csprojResolveAssemblyReference.cache
+D:\Escritorio\1Parcial\pjt_Pregunta 5\pjt_Pregunta 5\bin\Debug\pjt_Pregunta 5.exe
+D:\Escritorio\1Parcial\pjt_Pregunta 5\pjt_Pregunta 5\bin\Debug\pjt_Pregunta 5.pdb
+D:\Escritorio\1Parcial\pjt_Pregunta 5\pjt_Pregunta 5\obj\Debug\pjt_Pregunta 5.exe
+D:\Escritorio\1Parcial\pjt_Pregunta 5\pjt_Pregunta 5\obj\Debug\pjt_Pregunta 5.pdb
