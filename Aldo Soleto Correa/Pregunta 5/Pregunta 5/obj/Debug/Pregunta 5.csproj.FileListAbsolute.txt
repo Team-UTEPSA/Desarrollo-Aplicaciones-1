@@ -1,0 +1,5 @@
+C:\Users\ALDO\Desktop\DAP 1\Primer Parcial\Pregunta 5\Pregunta 5\bin\Debug\Pregunta 5.exe.config
+C:\Users\ALDO\Desktop\DAP 1\Primer Parcial\Pregunta 5\Pregunta 5\bin\Debug\Pregunta 5.exe
+C:\Users\ALDO\Desktop\DAP 1\Primer Parcial\Pregunta 5\Pregunta 5\bin\Debug\Pregunta 5.pdb
+C:\Users\ALDO\Desktop\DAP 1\Primer Parcial\Pregunta 5\Pregunta 5\obj\Debug\Pregunta 5.exe
+C:\Users\ALDO\Desktop\DAP 1\Primer Parcial\Pregunta 5\Pregunta 5\obj\Debug\Pregunta 5.pdb
