@@ -1,0 +1,5 @@
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_06\Pregunta_06\bin\Debug\Pregunta_06.exe.config
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_06\Pregunta_06\bin\Debug\Pregunta_06.exe
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_06\Pregunta_06\bin\Debug\Pregunta_06.pdb
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_06\Pregunta_06\obj\Debug\Pregunta_06.exe
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_06\Pregunta_06\obj\Debug\Pregunta_06.pdb
