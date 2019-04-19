@@ -1,0 +1,6 @@
+C:\Users\Rosa Chavez\Desktop\dap1\pjt_CLI_proyecto5\pjt_CLI_proyecto5\bin\Debug\pjt_CLI_proyecto5.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\pjt_CLI_proyecto5\pjt_CLI_proyecto5\bin\Debug\pjt_CLI_proyecto5.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjt_CLI_proyecto5\pjt_CLI_proyecto5\bin\Debug\pjt_CLI_proyecto5.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjt_CLI_proyecto5\pjt_CLI_proyecto5\obj\Debug\pjt_CLI_proyecto5.csprojResolveAssemblyReference.cache
+C:\Users\Rosa Chavez\Desktop\dap1\pjt_CLI_proyecto5\pjt_CLI_proyecto5\obj\Debug\pjt_CLI_proyecto5.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjt_CLI_proyecto5\pjt_CLI_proyecto5\obj\Debug\pjt_CLI_proyecto5.pdb
