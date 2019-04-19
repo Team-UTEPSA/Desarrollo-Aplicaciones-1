@@ -1,0 +1,6 @@
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_05\Pregunta_05\bin\Debug\Pregunta_05.exe.config
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_05\Pregunta_05\bin\Debug\Pregunta_05.exe
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_05\Pregunta_05\bin\Debug\Pregunta_05.pdb
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_05\Pregunta_05\obj\Debug\Pregunta_05.csprojResolveAssemblyReference.cache
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_05\Pregunta_05\obj\Debug\Pregunta_05.exe
+C:\Users\RODRIGO\Desktop\1erParcial\Pregunta_05\Pregunta_05\obj\Debug\Pregunta_05.pdb
