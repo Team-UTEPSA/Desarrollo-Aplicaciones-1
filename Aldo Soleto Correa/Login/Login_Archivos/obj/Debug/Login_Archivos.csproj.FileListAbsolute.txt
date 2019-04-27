@@ -1,0 +1,6 @@
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\obj\Debug\Login_Archivos.csprojResolveAssemblyReference.cache
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\bin\Debug\Login_Archivos.exe.config
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\bin\Debug\Login_Archivos.exe
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\bin\Debug\Login_Archivos.pdb
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\obj\Debug\Login_Archivos.exe
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\obj\Debug\Login_Archivos.pdb
