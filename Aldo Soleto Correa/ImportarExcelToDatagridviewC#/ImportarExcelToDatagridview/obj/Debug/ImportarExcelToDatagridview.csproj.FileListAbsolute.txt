@@ -1,0 +1,35 @@
+C:\Users\Yenier\AppData\Local\Temporary Projects\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.exe.config
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.exe.config
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.exe
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.pdb
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csprojResolveAssemblyReference.cache
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\Interop.ADOX.dll
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csproj.ResolveComReference.cache
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.Form1.resources
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.Properties.Resources.resources
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csproj.GenerateResource.Cache
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.exe
+D:\Escritorio\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.exe.config
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\Interop.ADOX.dll
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csproj.ResolveComReference.cache
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.exe
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.exe
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.pdb
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csprojResolveAssemblyReference.cache
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.Form1.resources
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.Properties.Resources.resources
+D:\Documentos\Visual Studio 2012\Projects(CSharp)\ImportarExcelToDatagridview\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csproj.GenerateResource.Cache
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.exe.config
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.exe
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\bin\Debug\ImportarExcelToDatagridview.pdb
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\Interop.ADOX.dll
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csproj.ResolveComReference.cache
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.Form1.resources
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.Properties.Resources.resources
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csproj.GenerateResource.Cache
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.exe
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.pdb
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csprojAssemblyReference.cache
+G:\Proyectos C#\ImportarExcelToDatagridviewC#\ImportarExcelToDatagridview\obj\Debug\ImportarExcelToDatagridview.csproj.CoreCompileInputs.cache
