@@ -1,0 +1,29 @@
+
+
+
+INSERT INTO TblHora VALUES (1,"08:00:00", '"23:00:00"');
+
+insert into tblDia VALUES (1,"LUNES");
+insert into tblDia VALUES (2,"MARTES");
+insert into tblDia VALUES (3,"MIERCOLES");
+insert into tblDia VALUES (4,"JUEVES");
+insert into tblDia VALUES (5,"VIERNES");
+insert into tblDia VALUES (6,"SABADO");
+insert into tblDia VALUES (7,"DOMINGO");
+
+INSERT INTO TblPolideportivo(1,"SEA","Av. PARAGUA lado del ","https://goo.gl/maps/bbZHdMEidWJvGcv16","72109754","1")
+INSERT INTO TblPolideportivo(2,"Polideportivo UAGRM","Av. Busch 2do y 3er anillo ","https://goo.gl/maps/iW7K9whuv6RMGJAV9","74109884","1")
+INSERT INTO TblPolideportivo(3,"Cancha de Cesped Sintetico","Av. olimpica y 4to anillo villa olimpica","https://goo.gl/maps/guJTGHjGm3Qci7Lg7","62109754","1")
+INSERT INTO TblPolideportivo(4,"Mayor San Pablo Soccer","Avenida Escuadrón Velasco entre 2do y 3er anillo N° 295","https://goo.gl/maps/AbApeLbXhNsi4LN8A","70203833","1")
+INSERT INTO TblPolideportivo(5,"Troyan Training Center II","Av. Brasil # 3380, esq. calle R.Tellez Cronenbol, entre 3er. y 4to. anillo","https://goo.gl/maps/uSdi7drENQXCZU7t7","77057138","1")
+INSERT INTO TblPolideportivo(6,"Sintética El Clasico","U.Catolica, Santa Cruz de la Sierra","https://goo.gl/maps/jJ3fv92iVV68w2ne6","67823855","1")
+INSERT INTO TblPolideportivo(7,"GOODFIT","Av. pirai 3er anillo calle escobar Nº123","https://goo.gl/maps/bbZHdMEidWJvGcv16","72109754","1")
+INSERT INTO TblPolideportivo(8,"brazuka","Septimo Anillo, Santa Cruz de la Sierra","https://goo.gl/maps/57TMdqY39fNPUHyk7","3 3299038","1")
+INSERT INTO TblPolideportivo(9,"fair play","av. virgen de lujan","https://goo.gl/maps/auoZ9xU1qQUFLPt98","77086277","1")
+
+
+
+
+
+
+SELECT nombre, lat, lon, ( 6371 * acos(cos(radians(41.671958)) * cos(radians(lat)) * cos(radians(lon) - radians(-3.685049)) + sin(radians(41.671958)) * sin(radians(lat)))) AS distance FROM mitabla HAVING distance < 70 ORDER BY distance;
