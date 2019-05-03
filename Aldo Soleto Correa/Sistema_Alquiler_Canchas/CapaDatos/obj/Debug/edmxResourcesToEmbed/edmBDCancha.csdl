@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBCanchaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tblCancha">
+    <Key>
+      <PropertyRef Name="idCancha" />
+    </Key>
+    <Property Name="idCancha" Type="Int32" Nullable="false" />
+    <Property Name="fkPolideportivo" Type="Int32" Nullable="false" />
+    <Property Name="Codigo" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Tipo" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Capacidad" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Largo" Type="Int32" Nullable="false" />
+    <Property Name="Ancho" Type="Int32" Nullable="false" />
+    <Property Name="PrecioDia" Type="Int32" Nullable="false" />
+    <Property Name="PrecioNoche" Type="Int32" Nullable="false" />
+    <Property Name="Ubicacion" Type="Geography" Nullable="false" />
+    <NavigationProperty Name="tblPoliDeportivo" Relationship="Self.FK__tblCancha__fkPol__3E52440B" FromRole="tblCancha" ToRole="tblPoliDeportivo" />
+    <NavigationProperty Name="tblReserva" Relationship="Self.FK__tblReserv__fkCan__412EB0B6" FromRole="tblCancha" ToRole="tblReserva" />
+  </EntityType>
+  <EntityType Name="tblCliente">
+    <Key>
+      <PropertyRef Name="idCliente" />
+    </Key>
+    <Property Name="idCliente" Type="Int32" Nullable="false" />
+    <Property Name="fkPersona" Type="Int32" Nullable="false" />
+    <Property Name="Nit" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="RazonSocial" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Puntos" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblPersona" Relationship="Self.FK__tblClient__fkPer__25869641" FromRole="tblCliente" ToRole="tblPersona" />
+    <NavigationProperty Name="tblMensajes" Relationship="Self.FK__tblMensaj__fkCli__286302EC" FromRole="tblCliente" ToRole="tblMensajes" />
+    <NavigationProperty Name="tblPago" Relationship="Self.FK__tblPago__fkClien__2B3F6F97" FromRole="tblCliente" ToRole="tblPago" />
+  </EntityType>
+  <EntityType Name="tblCtaUsuario">
+    <Key>
+      <PropertyRef Name="idCuentaUsuario" />
+    </Key>
+    <Property Name="idCuentaUsuario" Type="Int32" Nullable="false" />
+    <Property Name="fkPersona" Type="Int32" Nullable="false" />
+    <Property Name="fkRol" Type="Int32" Nullable="false" />
+    <Property Name="Activado" Type="Boolean" Nullable="false" />
+    <Property Name="FechaRegistro" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Estado" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblPersona" Relationship="Self.FK__tblCtaUsu__fkPer__145C0A3F" FromRole="tblCtaUsuario" ToRole="tblPersona" />
+    <NavigationProperty Name="tblRol" Relationship="Self.FK__tblCtaUsu__fkRol__15502E78" FromRole="tblCtaUsuario" ToRole="tblRol" />
+  </EntityType>
+  <EntityType Name="tblDetallePago">
+    <Key>
+      <PropertyRef Name="idDetallePago" />
+    </Key>
+    <Property Name="idDetallePago" Type="Int32" Nullable="false" />
+    <Property Name="fkPago" Type="Int32" Nullable="false" />
+    <Property Name="fkServicio" Type="Int32" Nullable="false" />
+    <Property Name="TipoServicio" Type="Int32" Nullable="false" />
+    <Property Name="Cantidad" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblPago" Relationship="Self.FK__tblDetall__fkPag__300424B4" FromRole="tblDetallePago" ToRole="tblPago" />
+    <NavigationProperty Name="tblServicios" Relationship="Self.FK__tblDetall__fkSer__30F848ED" FromRole="tblDetallePago" ToRole="tblServicios" />
+  </EntityType>
+  <EntityType Name="tblDia">
+    <Key>
+      <PropertyRef Name="idDia" />
+    </Key>
+    <Property Name="idDia" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="1" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tblHorarioAtencion" Relationship="Self.FK__tblHorari__fkDia__3A81B327" FromRole="tblDia" ToRole="tblHorarioAtencion" />
+  </EntityType>
+  <EntityType Name="tblHora">
+    <Key>
+      <PropertyRef Name="idHora" />
+    </Key>
+    <Property Name="idHora" Type="Int32" Nullable="false" />
+    <Property Name="Apertura" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="Cierre" Type="Time" Nullable="false" Precision="7" />
+    <NavigationProperty Name="tblHorarioAtencion" Relationship="Self.FK__tblHorari__fkHor__3B75D760" FromRole="tblHora" ToRole="tblHorarioAtencion" />
+  </EntityType>
+  <EntityType Name="tblHorarioAtencion">
+    <Key>
+      <PropertyRef Name="idHorarioAtencion" />
+    </Key>
+    <Property Name="idHorarioAtencion" Type="Int32" Nullable="false" />
+    <Property Name="fkPolideportivo" Type="Int32" Nullable="false" />
+    <Property Name="fkDia" Type="Int32" Nullable="false" />
+    <Property Name="fkHora" Type="Int32" Nullable="false" />
+    <Property Name="Estado" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblDia" Relationship="Self.FK__tblHorari__fkDia__3A81B327" FromRole="tblHorarioAtencion" ToRole="tblDia" />
+    <NavigationProperty Name="tblHora" Relationship="Self.FK__tblHorari__fkHor__3B75D760" FromRole="tblHorarioAtencion" ToRole="tblHora" />
+    <NavigationProperty Name="tblPoliDeportivo" Relationship="Self.FK__tblHorari__fkPol__398D8EEE" FromRole="tblHorarioAtencion" ToRole="tblPoliDeportivo" />
+  </EntityType>
+  <EntityType Name="tblMensajes">
+    <Key>
+      <PropertyRef Name="idMensaje" />
+    </Key>
+    <Property Name="idMensaje" Type="Int32" Nullable="false" />
+    <Property Name="fkCliente" Type="Int32" Nullable="false" />
+    <Property Name="Mensaje" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Respuesta" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FechaRecepcion" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Estado" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblCliente" Relationship="Self.FK__tblMensaj__fkCli__286302EC" FromRole="tblMensajes" ToRole="tblCliente" />
+  </EntityType>
+  <EntityType Name="tblPago">
+    <Key>
+      <PropertyRef Name="idPago" />
+    </Key>
+    <Property Name="idPago" Type="Int32" Nullable="false" />
+    <Property Name="fkCliente" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Total" Type="Decimal" Precision="2" Scale="2" Nullable="false" />
+    <Property Name="Descuento" Type="Decimal" Precision="2" Scale="2" Nullable="false" />
+    <Property Name="TotalPagado" Type="Decimal" Precision="2" Scale="2" Nullable="false" />
+    <NavigationProperty Name="tblCliente" Relationship="Self.FK__tblPago__fkClien__2B3F6F97" FromRole="tblPago" ToRole="tblCliente" />
+    <NavigationProperty Name="tblDetallePago" Relationship="Self.FK__tblDetall__fkPag__300424B4" FromRole="tblPago" ToRole="tblDetallePago" />
+  </EntityType>
+  <EntityType Name="tblPersona">
+    <Key>
+      <PropertyRef Name="idPersona" />
+    </Key>
+    <Property Name="idPersona" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Apellido" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sexo" Type="Int32" Nullable="false" />
+    <Property Name="FechaNacimiento" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Telefono" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Usuario" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Contraseña" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tblCliente" Relationship="Self.FK__tblClient__fkPer__25869641" FromRole="tblPersona" ToRole="tblCliente" />
+    <NavigationProperty Name="tblCtaUsuario" Relationship="Self.FK__tblCtaUsu__fkPer__145C0A3F" FromRole="tblPersona" ToRole="tblCtaUsuario" />
+    <NavigationProperty Name="tblPersonal" Relationship="Self.FK__tblPerson__Direc__22AA2996" FromRole="tblPersona" ToRole="tblPersonal" />
+  </EntityType>
+  <EntityType Name="tblPersonal">
+    <Key>
+      <PropertyRef Name="idPersonal" />
+    </Key>
+    <Property Name="idPersonal" Type="Int32" Nullable="false" />
+    <Property Name="fkPersonal" Type="Int32" Nullable="false" />
+    <Property Name="Cargo" Type="String" MaxLength="23" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Horario" Type="Int32" Nullable="false" />
+    <Property Name="Direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tblPersona" Relationship="Self.FK__tblPerson__Direc__22AA2996" FromRole="tblPersonal" ToRole="tblPersona" />
+  </EntityType>
+  <EntityType Name="tblPoliDeportivo">
+    <Key>
+      <PropertyRef Name="idPoliDeportivo" />
+    </Key>
+    <Property Name="idPoliDeportivo" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ubicacion" Type="Geography" Nullable="false" />
+    <Property Name="Telefono" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Abierto" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="tblCancha" Relationship="Self.FK__tblCancha__fkPol__3E52440B" FromRole="tblPoliDeportivo" ToRole="tblCancha" />
+    <NavigationProperty Name="tblHorarioAtencion" Relationship="Self.FK__tblHorari__fkPol__398D8EEE" FromRole="tblPoliDeportivo" ToRole="tblHorarioAtencion" />
+  </EntityType>
+  <EntityType Name="tblReserva">
+    <Key>
+      <PropertyRef Name="idReserva" />
+    </Key>
+    <Property Name="idReserva" Type="Int32" Nullable="false" />
+    <Property Name="fkCancha" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Inicio" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="Final" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="Estado" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblCancha" Relationship="Self.FK__tblReserv__fkCan__412EB0B6" FromRole="tblReserva" ToRole="tblCancha" />
+  </EntityType>
+  <EntityType Name="tblRol">
+    <Key>
+      <PropertyRef Name="idRol" />
+    </Key>
+    <Property Name="idRol" Type="Int32" Nullable="false" />
+    <Property Name="TipoUsuario" Type="String" MaxLength="23" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Permisos" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblCtaUsuario" Relationship="Self.FK__tblCtaUsu__fkRol__15502E78" FromRole="tblRol" ToRole="tblCtaUsuario" />
+  </EntityType>
+  <EntityType Name="tblServicios">
+    <Key>
+      <PropertyRef Name="idServicios" />
+    </Key>
+    <Property Name="idServicios" Type="Int32" Nullable="false" />
+    <Property Name="Detalle" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Precio" Type="Decimal" Precision="2" Scale="2" Nullable="false" />
+    <Property Name="Disponibilidad" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblDetallePago" Relationship="Self.FK__tblDetall__fkSer__30F848ED" FromRole="tblServicios" ToRole="tblDetallePago" />
+  </EntityType>
+  <Association Name="FK__tblCancha__fkPol__3E52440B">
+    <End Role="tblPoliDeportivo" Type="Self.tblPoliDeportivo" Multiplicity="1" />
+    <End Role="tblCancha" Type="Self.tblCancha" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPoliDeportivo">
+        <PropertyRef Name="idPoliDeportivo" />
+      </Principal>
+      <Dependent Role="tblCancha">
+        <PropertyRef Name="fkPolideportivo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblReserv__fkCan__412EB0B6">
+    <End Role="tblCancha" Type="Self.tblCancha" Multiplicity="1" />
+    <End Role="tblReserva" Type="Self.tblReserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCancha">
+        <PropertyRef Name="idCancha" />
+      </Principal>
+      <Dependent Role="tblReserva">
+        <PropertyRef Name="fkCancha" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblClient__fkPer__25869641">
+    <End Role="tblPersona" Type="Self.tblPersona" Multiplicity="1" />
+    <End Role="tblCliente" Type="Self.tblCliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPersona">
+        <PropertyRef Name="idPersona" />
+      </Principal>
+      <Dependent Role="tblCliente">
+        <PropertyRef Name="fkPersona" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblMensaj__fkCli__286302EC">
+    <End Role="tblCliente" Type="Self.tblCliente" Multiplicity="1" />
+    <End Role="tblMensajes" Type="Self.tblMensajes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCliente">
+        <PropertyRef Name="idCliente" />
+      </Principal>
+      <Dependent Role="tblMensajes">
+        <PropertyRef Name="fkCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblPago__fkClien__2B3F6F97">
+    <End Role="tblCliente" Type="Self.tblCliente" Multiplicity="1" />
+    <End Role="tblPago" Type="Self.tblPago" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCliente">
+        <PropertyRef Name="idCliente" />
+      </Principal>
+      <Dependent Role="tblPago">
+        <PropertyRef Name="fkCliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblCtaUsu__fkPer__145C0A3F">
+    <End Role="tblPersona" Type="Self.tblPersona" Multiplicity="1" />
+    <End Role="tblCtaUsuario" Type="Self.tblCtaUsuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPersona">
+        <PropertyRef Name="idPersona" />
+      </Principal>
+      <Dependent Role="tblCtaUsuario">
+        <PropertyRef Name="fkPersona" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblCtaUsu__fkRol__15502E78">
+    <End Role="tblRol" Type="Self.tblRol" Multiplicity="1" />
+    <End Role="tblCtaUsuario" Type="Self.tblCtaUsuario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblRol">
+        <PropertyRef Name="idRol" />
+      </Principal>
+      <Dependent Role="tblCtaUsuario">
+        <PropertyRef Name="fkRol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblDetall__fkPag__300424B4">
+    <End Role="tblPago" Type="Self.tblPago" Multiplicity="1" />
+    <End Role="tblDetallePago" Type="Self.tblDetallePago" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPago">
+        <PropertyRef Name="idPago" />
+      </Principal>
+      <Dependent Role="tblDetallePago">
+        <PropertyRef Name="fkPago" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblDetall__fkSer__30F848ED">
+    <End Role="tblServicios" Type="Self.tblServicios" Multiplicity="1" />
+    <End Role="tblDetallePago" Type="Self.tblDetallePago" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblServicios">
+        <PropertyRef Name="idServicios" />
+      </Principal>
+      <Dependent Role="tblDetallePago">
+        <PropertyRef Name="fkServicio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblHorari__fkDia__3A81B327">
+    <End Role="tblDia" Type="Self.tblDia" Multiplicity="1" />
+    <End Role="tblHorarioAtencion" Type="Self.tblHorarioAtencion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblDia">
+        <PropertyRef Name="idDia" />
+      </Principal>
+      <Dependent Role="tblHorarioAtencion">
+        <PropertyRef Name="fkDia" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblHorari__fkHor__3B75D760">
+    <End Role="tblHora" Type="Self.tblHora" Multiplicity="1" />
+    <End Role="tblHorarioAtencion" Type="Self.tblHorarioAtencion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblHora">
+        <PropertyRef Name="idHora" />
+      </Principal>
+      <Dependent Role="tblHorarioAtencion">
+        <PropertyRef Name="fkHora" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblHorari__fkPol__398D8EEE">
+    <End Role="tblPoliDeportivo" Type="Self.tblPoliDeportivo" Multiplicity="1" />
+    <End Role="tblHorarioAtencion" Type="Self.tblHorarioAtencion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPoliDeportivo">
+        <PropertyRef Name="idPoliDeportivo" />
+      </Principal>
+      <Dependent Role="tblHorarioAtencion">
+        <PropertyRef Name="fkPolideportivo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblPerson__Direc__22AA2996">
+    <End Role="tblPersona" Type="Self.tblPersona" Multiplicity="1" />
+    <End Role="tblPersonal" Type="Self.tblPersonal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPersona">
+        <PropertyRef Name="idPersona" />
+      </Principal>
+      <Dependent Role="tblPersonal">
+        <PropertyRef Name="fkPersonal" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBCanchaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="tblCancha" EntityType="Self.tblCancha" />
+    <EntitySet Name="tblCliente" EntityType="Self.tblCliente" />
+    <EntitySet Name="tblCtaUsuario" EntityType="Self.tblCtaUsuario" />
+    <EntitySet Name="tblDetallePago" EntityType="Self.tblDetallePago" />
+    <EntitySet Name="tblDia" EntityType="Self.tblDia" />
+    <EntitySet Name="tblHora" EntityType="Self.tblHora" />
+    <EntitySet Name="tblHorarioAtencion" EntityType="Self.tblHorarioAtencion" />
+    <EntitySet Name="tblMensajes" EntityType="Self.tblMensajes" />
+    <EntitySet Name="tblPago" EntityType="Self.tblPago" />
+    <EntitySet Name="tblPersona" EntityType="Self.tblPersona" />
+    <EntitySet Name="tblPersonal" EntityType="Self.tblPersonal" />
+    <EntitySet Name="tblPoliDeportivo" EntityType="Self.tblPoliDeportivo" />
+    <EntitySet Name="tblReserva" EntityType="Self.tblReserva" />
+    <EntitySet Name="tblRol" EntityType="Self.tblRol" />
+    <EntitySet Name="tblServicios" EntityType="Self.tblServicios" />
+    <AssociationSet Name="FK__tblCancha__fkPol__3E52440B" Association="Self.FK__tblCancha__fkPol__3E52440B">
+      <End Role="tblPoliDeportivo" EntitySet="tblPoliDeportivo" />
+      <End Role="tblCancha" EntitySet="tblCancha" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblReserv__fkCan__412EB0B6" Association="Self.FK__tblReserv__fkCan__412EB0B6">
+      <End Role="tblCancha" EntitySet="tblCancha" />
+      <End Role="tblReserva" EntitySet="tblReserva" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblClient__fkPer__25869641" Association="Self.FK__tblClient__fkPer__25869641">
+      <End Role="tblPersona" EntitySet="tblPersona" />
+      <End Role="tblCliente" EntitySet="tblCliente" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblMensaj__fkCli__286302EC" Association="Self.FK__tblMensaj__fkCli__286302EC">
+      <End Role="tblCliente" EntitySet="tblCliente" />
+      <End Role="tblMensajes" EntitySet="tblMensajes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblPago__fkClien__2B3F6F97" Association="Self.FK__tblPago__fkClien__2B3F6F97">
+      <End Role="tblCliente" EntitySet="tblCliente" />
+      <End Role="tblPago" EntitySet="tblPago" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblCtaUsu__fkPer__145C0A3F" Association="Self.FK__tblCtaUsu__fkPer__145C0A3F">
+      <End Role="tblPersona" EntitySet="tblPersona" />
+      <End Role="tblCtaUsuario" EntitySet="tblCtaUsuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblCtaUsu__fkRol__15502E78" Association="Self.FK__tblCtaUsu__fkRol__15502E78">
+      <End Role="tblRol" EntitySet="tblRol" />
+      <End Role="tblCtaUsuario" EntitySet="tblCtaUsuario" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblDetall__fkPag__300424B4" Association="Self.FK__tblDetall__fkPag__300424B4">
+      <End Role="tblPago" EntitySet="tblPago" />
+      <End Role="tblDetallePago" EntitySet="tblDetallePago" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblDetall__fkSer__30F848ED" Association="Self.FK__tblDetall__fkSer__30F848ED">
+      <End Role="tblServicios" EntitySet="tblServicios" />
+      <End Role="tblDetallePago" EntitySet="tblDetallePago" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblHorari__fkDia__3A81B327" Association="Self.FK__tblHorari__fkDia__3A81B327">
+      <End Role="tblDia" EntitySet="tblDia" />
+      <End Role="tblHorarioAtencion" EntitySet="tblHorarioAtencion" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblHorari__fkHor__3B75D760" Association="Self.FK__tblHorari__fkHor__3B75D760">
+      <End Role="tblHora" EntitySet="tblHora" />
+      <End Role="tblHorarioAtencion" EntitySet="tblHorarioAtencion" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblHorari__fkPol__398D8EEE" Association="Self.FK__tblHorari__fkPol__398D8EEE">
+      <End Role="tblPoliDeportivo" EntitySet="tblPoliDeportivo" />
+      <End Role="tblHorarioAtencion" EntitySet="tblHorarioAtencion" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblPerson__Direc__22AA2996" Association="Self.FK__tblPerson__Direc__22AA2996">
+      <End Role="tblPersona" EntitySet="tblPersona" />
+      <End Role="tblPersonal" EntitySet="tblPersonal" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
