@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reservacanchas", "reservacanchas\reservacanchas.csproj", "{969D8A3B-5A48-4177-B373-447B77F9039A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPA_NEGOCIO", "CAPA_NEGOCIO\CAPA_NEGOCIO.csproj", "{5746FE9E-8906-4FC4-8CD5-68A38CF056CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAPA_DATOS", "CAPA_DATOS\CAPA_DATOS.csproj", "{A3CD287E-69ED-4AA1-B449-70E5BAF7E60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{969D8A3B-5A48-4177-B373-447B77F9039A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{969D8A3B-5A48-4177-B373-447B77F9039A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{969D8A3B-5A48-4177-B373-447B77F9039A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{969D8A3B-5A48-4177-B373-447B77F9039A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5746FE9E-8906-4FC4-8CD5-68A38CF056CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5746FE9E-8906-4FC4-8CD5-68A38CF056CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5746FE9E-8906-4FC4-8CD5-68A38CF056CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5746FE9E-8906-4FC4-8CD5-68A38CF056CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CD287E-69ED-4AA1-B449-70E5BAF7E60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CD287E-69ED-4AA1-B449-70E5BAF7E60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CD287E-69ED-4AA1-B449-70E5BAF7E60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CD287E-69ED-4AA1-B449-70E5BAF7E60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
