@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbCanchaModelStoreContainer" CdmEntityContainer="dbCanchaEntities1">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="dbCanchaModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCalendarioAtencion">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblCalendarioAtencion">
+        <MappingFragment StoreEntitySet="tblCalendarioAtencion">
+          <ScalarProperty Name="idHorarioAtencion" ColumnName="idHorarioAtencion" />
+          <ScalarProperty Name="fkPoliDeportivo" ColumnName="fkPoliDeportivo" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Apertura" ColumnName="Apertura" />
+          <ScalarProperty Name="Cierre" ColumnName="Cierre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCancha">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblCancha">
+        <MappingFragment StoreEntitySet="tblCancha">
+          <ScalarProperty Name="idCancha" ColumnName="idCancha" />
+          <ScalarProperty Name="fkPoliDeportivo" ColumnName="fkPoliDeportivo" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Capacidad" ColumnName="Capacidad" />
+          <ScalarProperty Name="Largo" ColumnName="Largo" />
+          <ScalarProperty Name="Ancho" ColumnName="Ancho" />
+          <ScalarProperty Name="PrecioDia" ColumnName="PrecioDia" />
+          <ScalarProperty Name="PrecioNoche" ColumnName="PrecioNoche" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCliente">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblCliente">
+        <MappingFragment StoreEntitySet="tblCliente">
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+          <ScalarProperty Name="fkPersona" ColumnName="fkPersona" />
+          <ScalarProperty Name="NIT" ColumnName="NIT" />
+          <ScalarProperty Name="RazonSocial" ColumnName="RazonSocial" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCuentaUsuario">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblCuentaUsuario">
+        <MappingFragment StoreEntitySet="tblCuentaUsuario">
+          <ScalarProperty Name="idCuentaUsuario" ColumnName="idCuentaUsuario" />
+          <ScalarProperty Name="fkPersona" ColumnName="fkPersona" />
+          <ScalarProperty Name="TipoUsuario" ColumnName="TipoUsuario" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMensajes">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblMensajes">
+        <MappingFragment StoreEntitySet="tblMensajes">
+          <ScalarProperty Name="idMensaje" ColumnName="idMensaje" />
+          <ScalarProperty Name="fkCliente" ColumnName="fkCliente" />
+          <ScalarProperty Name="FechaRecepcion" ColumnName="FechaRecepcion" />
+          <ScalarProperty Name="Mensaje" ColumnName="Mensaje" />
+          <ScalarProperty Name="Respuesta" ColumnName="Respuesta" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPago">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblPago">
+        <MappingFragment StoreEntitySet="tblPago">
+          <ScalarProperty Name="idPago" ColumnName="idPago" />
+          <ScalarProperty Name="fkReserva" ColumnName="fkReserva" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPersona">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblPersona">
+        <MappingFragment StoreEntitySet="tblPersona">
+          <ScalarProperty Name="idPersona" ColumnName="idPersona" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="Contraseña" ColumnName="Contraseña" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPersonal">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblPersonal">
+        <MappingFragment StoreEntitySet="tblPersonal">
+          <ScalarProperty Name="idPersonal" ColumnName="idPersonal" />
+          <ScalarProperty Name="fkPersona" ColumnName="fkPersona" />
+          <ScalarProperty Name="Cargo" ColumnName="Cargo" />
+          <ScalarProperty Name="Horario" ColumnName="Horario" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPoliDeportivo">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblPoliDeportivo">
+        <MappingFragment StoreEntitySet="tblPoliDeportivo">
+          <ScalarProperty Name="idPoliDeportivo" ColumnName="idPoliDeportivo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Abierto" ColumnName="Abierto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblReserva">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblReserva">
+        <MappingFragment StoreEntitySet="tblReserva">
+          <ScalarProperty Name="idReserva" ColumnName="idReserva" />
+          <ScalarProperty Name="fkCliente" ColumnName="fkCliente" />
+          <ScalarProperty Name="fkCancha" ColumnName="fkCancha" />
+          <ScalarProperty Name="fkPersonal" ColumnName="fkPersonal" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Inicio" ColumnName="Inicio" />
+          <ScalarProperty Name="Final" ColumnName="Final" />
+          <ScalarProperty Name="EstadoReserva" ColumnName="EstadoReserva" />
+          <ScalarProperty Name="PrecioAlquiler" ColumnName="PrecioAlquiler" />
+          <ScalarProperty Name="EstadoPago" ColumnName="EstadoPago" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

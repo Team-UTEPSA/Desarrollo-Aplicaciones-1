@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbCanchaModelStoreContainer" CdmEntityContainer="dbCanchaEntities">
+    <EntitySetMapping Name="tblCancha">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblCancha">
+        <MappingFragment StoreEntitySet="tblCancha">
+          <ScalarProperty Name="idCancha" ColumnName="idCancha" />
+          <ScalarProperty Name="fkPoliDeportivo" ColumnName="fkPoliDeportivo" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Capacidad" ColumnName="Capacidad" />
+          <ScalarProperty Name="Largo" ColumnName="Largo" />
+          <ScalarProperty Name="Ancho" ColumnName="Ancho" />
+          <ScalarProperty Name="PrecioDia" ColumnName="PrecioDia" />
+          <ScalarProperty Name="PrecioNoche" ColumnName="PrecioNoche" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPoliDeportivo">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblPoliDeportivo">
+        <MappingFragment StoreEntitySet="tblPoliDeportivo">
+          <ScalarProperty Name="idPoliDeportivo" ColumnName="idPoliDeportivo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Abierto" ColumnName="Abierto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblReserva">
+      <EntityTypeMapping TypeName="dbCanchaModel.tblReserva">
+        <MappingFragment StoreEntitySet="tblReserva">
+          <ScalarProperty Name="idReserva" ColumnName="idReserva" />
+          <ScalarProperty Name="fkCliente" ColumnName="fkCliente" />
+          <ScalarProperty Name="fkCancha" ColumnName="fkCancha" />
+          <ScalarProperty Name="fkPersonal" ColumnName="fkPersonal" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Inicio" ColumnName="Inicio" />
+          <ScalarProperty Name="Final" ColumnName="Final" />
+          <ScalarProperty Name="EstadoReserva" ColumnName="EstadoReserva" />
+          <ScalarProperty Name="PrecioAlquiler" ColumnName="PrecioAlquiler" />
+          <ScalarProperty Name="EstadoPago" ColumnName="EstadoPago" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

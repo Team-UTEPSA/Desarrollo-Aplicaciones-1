@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbCanchaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tblCancha">
+    <Key>
+      <PropertyRef Name="idCancha" />
+    </Key>
+    <Property Name="idCancha" Type="int" Nullable="false" />
+    <Property Name="fkPoliDeportivo" Type="int" Nullable="false" />
+    <Property Name="Codigo" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Tipo" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Capacidad" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="Largo" Type="int" Nullable="false" />
+    <Property Name="Ancho" Type="int" Nullable="false" />
+    <Property Name="PrecioDia" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="PrecioNoche" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Ubicacion" Type="geography" />
+  </EntityType>
+  <EntityType Name="tblPoliDeportivo">
+    <Key>
+      <PropertyRef Name="idPoliDeportivo" />
+    </Key>
+    <Property Name="idPoliDeportivo" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="nvarchar" MaxLength="25" Nullable="false" />
+    <Property Name="Direccion" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Ubicacion" Type="geography" />
+    <Property Name="Telefono" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Abierto" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblReserva">
+    <Key>
+      <PropertyRef Name="idReserva" />
+    </Key>
+    <Property Name="idReserva" Type="int" Nullable="false" />
+    <Property Name="fkCliente" Type="int" Nullable="false" />
+    <Property Name="fkCancha" Type="int" Nullable="false" />
+    <Property Name="fkPersonal" Type="int" Nullable="false" />
+    <Property Name="Fecha" Type="date" Nullable="false" />
+    <Property Name="Inicio" Type="time" Precision="7" Nullable="false" />
+    <Property Name="Final" Type="time" Precision="7" Nullable="false" />
+    <Property Name="EstadoReserva" Type="int" Nullable="false" />
+    <Property Name="PrecioAlquiler" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="EstadoPago" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__tblCancha__fkPol__22AA2996">
+    <End Role="tblPoliDeportivo" Type="Self.tblPoliDeportivo" Multiplicity="1" />
+    <End Role="tblCancha" Type="Self.tblCancha" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPoliDeportivo">
+        <PropertyRef Name="idPoliDeportivo" />
+      </Principal>
+      <Dependent Role="tblCancha">
+        <PropertyRef Name="fkPoliDeportivo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblReserv__fkCan__267ABA7A">
+    <End Role="tblCancha" Type="Self.tblCancha" Multiplicity="1" />
+    <End Role="tblReserva" Type="Self.tblReserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCancha">
+        <PropertyRef Name="idCancha" />
+      </Principal>
+      <Dependent Role="tblReserva">
+        <PropertyRef Name="fkCancha" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="dbCanchaModelStoreContainer">
+    <EntitySet Name="tblCancha" EntityType="Self.tblCancha" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblPoliDeportivo" EntityType="Self.tblPoliDeportivo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblReserva" EntityType="Self.tblReserva" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__tblCancha__fkPol__22AA2996" Association="Self.FK__tblCancha__fkPol__22AA2996">
+      <End Role="tblPoliDeportivo" EntitySet="tblPoliDeportivo" />
+      <End Role="tblCancha" EntitySet="tblCancha" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblReserv__fkCan__267ABA7A" Association="Self.FK__tblReserv__fkCan__267ABA7A">
+      <End Role="tblCancha" EntitySet="tblCancha" />
+      <End Role="tblReserva" EntitySet="tblReserva" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
