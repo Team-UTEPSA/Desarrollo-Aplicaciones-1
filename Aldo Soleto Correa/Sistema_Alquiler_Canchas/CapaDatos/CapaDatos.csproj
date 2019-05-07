@@ -49,78 +49,78 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="edmBDCancha2.Context.cs">
+    <Compile Include="BDCANCHA.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>edmBDCancha2.Context.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="edmBDCancha2.cs">
+    <Compile Include="BDCANCHA.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
-    <Compile Include="edmBDCancha2.Designer.cs">
+    <Compile Include="BDCANCHA.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>edmBDCancha2.edmx</DependentUpon>
+      <DependentUpon>BDCANCHA.edmx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="tblCalendarioAtencion.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblCancha.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblCliente.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblCuentaUsuario.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblMensajes.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblPago.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblPersona.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblPersonal.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblPoliDeportivo.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
     <Compile Include="tblReserva.cs">
-      <DependentUpon>edmBDCancha2.tt</DependentUpon>
+      <DependentUpon>BDCANCHA.tt</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />
-    <EntityDeploy Include="edmBDCancha2.edmx">
+    <EntityDeploy Include="BDCANCHA.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>edmBDCancha2.Designer.cs</LastGenOutput>
+      <LastGenOutput>BDCANCHA.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <None Include="edmBDCancha2.edmx.diagram">
-      <DependentUpon>edmBDCancha2.edmx</DependentUpon>
+    <None Include="BDCANCHA.edmx.diagram">
+      <DependentUpon>BDCANCHA.edmx</DependentUpon>
     </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="edmBDCancha2.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>edmBDCancha2.edmx</DependentUpon>
-      <LastGenOutput>edmBDCancha2.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="edmBDCancha2.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>edmBDCancha2.edmx</DependentUpon>
-      <LastGenOutput>edmBDCancha2.cs</LastGenOutput>
-    </Content>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <ItemGroup>
-    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Content Include="BDCANCHA.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BDCANCHA.edmx</DependentUpon>
+      <LastGenOutput>BDCANCHA.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="BDCANCHA.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BDCANCHA.edmx</DependentUpon>
+      <LastGenOutput>BDCANCHA.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

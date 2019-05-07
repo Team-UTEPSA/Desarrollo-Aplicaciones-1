@@ -38,3 +38,25 @@ C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\Login_Canchas_Ent
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.exe
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\Login_Canchas_Entity.exe.config
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\Login_Canchas_Entity.exe
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\Login_Canchas_Entity.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\CapaDatos.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\CapaLogica_Negocio.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\EntityFramework.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\CapaDatos.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\CapaDatos.dll.config
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\CapaLogica_Negocio.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\CapaLogica_Negocio.dll.config
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\EntityFramework.xml
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.frmLogin.resources
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.frmServicios.resources
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.Properties.Resources.resources
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.exe
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.pdb
