@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4a00e4fc4083454781d2f102da90e369" Name="Diagram1">
+        <EntityTypeShape EntityType="dbCanchaModel.tblCancha" Width="1.5" PointX="3" PointY="18.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblCliente" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblCuentaUsuario" Width="1.5" PointX="3" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblDetallePago" Width="1.5" PointX="7.5" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblDia" Width="1.5" PointX="3.75" PointY="23.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblHora" Width="1.5" PointX="3.75" PointY="25.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblHorarioAtencion" Width="1.5" PointX="6" PointY="18.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblMensajes" Width="1.5" PointX="5.25" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblPago" Width="1.5" PointX="5.25" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblPersona" Width="1.5" PointX="0.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblPersonal" Width="1.5" PointX="3" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblPoliDeportivo" Width="1.5" PointX="0.75" PointY="18.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblReserva" Width="1.5" PointX="5.25" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblRol" Width="1.5" PointX="0.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaModel.tblServicios" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblCancha__fkPol__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblReserv__fkCan__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblClient__fkPer__1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblMensaj__fkCli__1DE57479" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblPago__fkClien__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblReserv__fkCli__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblCuenta__fkPer__145C0A3F" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblCuenta__fkRol__15502E78" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblDetall__fkPag__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblDetall__fkSer__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblHorari__fkDia__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblHorari__fkHor__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblHorari__fkPol__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblPerson__fkPer__182C9B23" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaModel.FK__tblReserv__fkPer__3A81B327" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
