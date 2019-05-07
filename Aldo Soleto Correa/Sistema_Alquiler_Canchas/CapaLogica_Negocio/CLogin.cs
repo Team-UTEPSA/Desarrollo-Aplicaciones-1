@@ -10,7 +10,8 @@ namespace CapaLogica_Negocio
     public class CLogin
     {
         //CapaDatos.DBCanchaEntities cancha = new CapaDatos.DBCanchaEntities();
-        CapaDatos.dbCancha2Entities cancha2 = new CapaDatos.dbCancha2Entities();
+      
+        CapaDatos.BDCanchaEntities cancha2 = new CapaDatos.BDCanchaEntities();
         
         public bool  ValidarUsuario(TextBox user, TextBox pass)
         {
@@ -72,7 +73,7 @@ namespace CapaLogica_Negocio
             if (quser != null)
             {
                 return ok;
-                //MessageBox.Show("El Usuario ya esta registrado");
+               // MessageBox.Show("El Usuario ya esta registrado");
             }
             else
             {

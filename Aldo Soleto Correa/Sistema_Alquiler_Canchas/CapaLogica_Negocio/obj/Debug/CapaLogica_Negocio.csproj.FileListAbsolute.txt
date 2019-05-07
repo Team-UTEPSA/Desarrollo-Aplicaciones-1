@@ -24,3 +24,18 @@ C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaLogica_Negoci
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaLogica_Negocio\obj\Debug\CapaLogica_Negocio.csprojResolveAssemblyReference.cache
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaLogica_Negocio\obj\Debug\CapaLogica_Negocio.dll
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaLogica_Negocio\obj\Debug\CapaLogica_Negocio.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\CapaLogica_Negocio.dll.config
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\CapaLogica_Negocio.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\CapaLogica_Negocio.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\CapaDatos.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\EntityFramework.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\CapaDatos.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\CapaDatos.dll.config
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\EntityFramework.xml
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\obj\Debug\CapaLogica_Negocio.csprojAssemblyReference.cache
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\obj\Debug\CapaLogica_Negocio.csproj.CoreCompileInputs.cache
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\obj\Debug\CapaLogica_Negocio.csproj.CopyComplete
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\obj\Debug\CapaLogica_Negocio.dll
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\CapaLogica_Negocio\obj\Debug\CapaLogica_Negocio.pdb

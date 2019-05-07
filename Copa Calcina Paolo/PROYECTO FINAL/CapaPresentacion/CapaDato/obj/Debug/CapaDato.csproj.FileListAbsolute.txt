@@ -1,0 +1,12 @@
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\bin\Debug\CapaDato.dll.config
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\bin\Debug\CapaDato.dll
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\bin\Debug\CapaDato.pdb
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\bin\Debug\EntityFramework.dll
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\bin\Debug\EntityFramework.SqlServer.dll
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\bin\Debug\EntityFramework.xml
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\bin\Debug\EntityFramework.SqlServer.xml
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\obj\Debug\CapaDato.dll
+C:\UTEPSA\DAB1\PROYECTO FINAL\CapaPresentacion\CapaDato\obj\Debug\CapaDato.pdb

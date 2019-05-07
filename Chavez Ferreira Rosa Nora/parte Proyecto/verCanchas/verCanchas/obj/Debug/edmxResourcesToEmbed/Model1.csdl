@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbCanchaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblCancha">
+    <Key>
+      <PropertyRef Name="idCancha" />
+    </Key>
+    <Property Name="idCancha" Type="Int32" Nullable="false" />
+    <Property Name="fkPoliDeportivo" Type="Int32" Nullable="false" />
+    <Property Name="Codigo" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Tipo" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Capacidad" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Largo" Type="Int32" Nullable="false" />
+    <Property Name="Ancho" Type="Int32" Nullable="false" />
+    <Property Name="PrecioDia" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="PrecioNoche" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="Ubicacion" Type="Geography" />
+    <NavigationProperty Name="tblPoliDeportivo" Relationship="Self.FK__tblCancha__fkPol__22AA2996" FromRole="tblCancha" ToRole="tblPoliDeportivo" />
+    <NavigationProperty Name="tblReserva" Relationship="Self.FK__tblReserv__fkCan__267ABA7A" FromRole="tblCancha" ToRole="tblReserva" />
+  </EntityType>
+  <EntityType Name="tblPoliDeportivo">
+    <Key>
+      <PropertyRef Name="idPoliDeportivo" />
+    </Key>
+    <Property Name="idPoliDeportivo" Type="Int32" Nullable="false" />
+    <Property Name="Nombre" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ubicacion" Type="Geography" />
+    <Property Name="Telefono" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Abierto" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="tblCancha" Relationship="Self.FK__tblCancha__fkPol__22AA2996" FromRole="tblPoliDeportivo" ToRole="tblCancha" />
+  </EntityType>
+  <EntityType Name="tblReserva">
+    <Key>
+      <PropertyRef Name="idReserva" />
+    </Key>
+    <Property Name="idReserva" Type="Int32" Nullable="false" />
+    <Property Name="fkCliente" Type="Int32" Nullable="false" />
+    <Property Name="fkCancha" Type="Int32" Nullable="false" />
+    <Property Name="fkPersonal" Type="Int32" Nullable="false" />
+    <Property Name="Fecha" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Inicio" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="Final" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="EstadoReserva" Type="Int32" Nullable="false" />
+    <Property Name="PrecioAlquiler" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+    <Property Name="EstadoPago" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tblCancha" Relationship="Self.FK__tblReserv__fkCan__267ABA7A" FromRole="tblReserva" ToRole="tblCancha" />
+  </EntityType>
+  <Association Name="FK__tblCancha__fkPol__22AA2996">
+    <End Role="tblPoliDeportivo" Type="Self.tblPoliDeportivo" Multiplicity="1" />
+    <End Role="tblCancha" Type="Self.tblCancha" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblPoliDeportivo">
+        <PropertyRef Name="idPoliDeportivo" />
+      </Principal>
+      <Dependent Role="tblCancha">
+        <PropertyRef Name="fkPoliDeportivo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__tblReserv__fkCan__267ABA7A">
+    <End Role="tblCancha" Type="Self.tblCancha" Multiplicity="1" />
+    <End Role="tblReserva" Type="Self.tblReserva" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCancha">
+        <PropertyRef Name="idCancha" />
+      </Principal>
+      <Dependent Role="tblReserva">
+        <PropertyRef Name="fkCancha" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="dbCanchaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblCancha" EntityType="Self.tblCancha" />
+    <EntitySet Name="tblPoliDeportivo" EntityType="Self.tblPoliDeportivo" />
+    <EntitySet Name="tblReserva" EntityType="Self.tblReserva" />
+    <AssociationSet Name="FK__tblCancha__fkPol__22AA2996" Association="Self.FK__tblCancha__fkPol__22AA2996">
+      <End Role="tblPoliDeportivo" EntitySet="tblPoliDeportivo" />
+      <End Role="tblCancha" EntitySet="tblCancha" />
+    </AssociationSet>
+    <AssociationSet Name="FK__tblReserv__fkCan__267ABA7A" Association="Self.FK__tblReserv__fkCan__267ABA7A">
+      <End Role="tblCancha" EntitySet="tblCancha" />
+      <End Role="tblReserva" EntitySet="tblReserva" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

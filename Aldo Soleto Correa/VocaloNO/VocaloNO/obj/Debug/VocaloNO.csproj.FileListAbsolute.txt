@@ -4,3 +4,10 @@ C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\bin\Debug\VocaloNO.pdb
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\obj\Debug\VocaloNO.csprojResolveAssemblyReference.cache
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\obj\Debug\VocaloNO.exe
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\VocaloNO\VocaloNO\obj\Debug\VocaloNO.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\VocaloNO\VocaloNO\bin\Debug\VocaloNO.exe.config
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\VocaloNO\VocaloNO\bin\Debug\VocaloNO.exe
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\VocaloNO\VocaloNO\bin\Debug\VocaloNO.pdb
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\VocaloNO\VocaloNO\obj\Debug\VocaloNO.csprojAssemblyReference.cache
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\VocaloNO\VocaloNO\obj\Debug\VocaloNO.csproj.CoreCompileInputs.cache
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\VocaloNO\VocaloNO\obj\Debug\VocaloNO.exe
+C:\UTEPSA\DAB1\GITHUB\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\VocaloNO\VocaloNO\obj\Debug\VocaloNO.pdb

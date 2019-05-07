@@ -1,0 +1,11 @@
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\bin\Debug\verCanchas.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\bin\Debug\verCanchas.exe
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\bin\Debug\verCanchas.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\bin\Debug\EntityFramework.dll
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\bin\Debug\EntityFramework.xml
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\obj\Debug\verCanchas.csprojResolveAssemblyReference.cache
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\obj\Debug\verCanchas.Form1.resources
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\obj\Debug\verCanchas.Properties.Resources.resources
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\obj\Debug\verCanchas.csproj.GenerateResource.Cache
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\obj\Debug\verCanchas.exe
+C:\Users\Rosa Chavez\Desktop\dap1\verCanchas\verCanchas\obj\Debug\verCanchas.pdb

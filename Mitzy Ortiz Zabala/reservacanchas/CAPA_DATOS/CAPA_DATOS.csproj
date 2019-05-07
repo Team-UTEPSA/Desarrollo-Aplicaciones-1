@@ -30,8 +30,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,8 +48,94 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CanchaModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CanchaModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CanchaModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CanchaModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CanchaModel.edmx</DependentUpon>
+    </Compile>
     <Compile Include="ReservasData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tblCancha.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblCliente.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblCuentaUsuario.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblDetallePago.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblDia.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblHora.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblHorarioAtencion.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblMensajes.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblPago.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblPersona.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblPersonal.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblPoliDeportivo.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblReserva.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblRol.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tblServicios.cs">
+      <DependentUpon>CanchaModel.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <EntityDeploy Include="CanchaModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>CanchaModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="CanchaModel.edmx.diagram">
+      <DependentUpon>CanchaModel.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CanchaModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>CanchaModel.edmx</DependentUpon>
+      <LastGenOutput>CanchaModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="CanchaModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>CanchaModel.edmx</DependentUpon>
+      <LastGenOutput>CanchaModel.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

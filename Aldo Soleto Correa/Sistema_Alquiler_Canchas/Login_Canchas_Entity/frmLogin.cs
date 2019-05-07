@@ -17,7 +17,7 @@ namespace Login_Canchas_Entity
         public frmLogin()
         {
             InitializeComponent();
-        }
+        }   
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
@@ -108,12 +108,19 @@ namespace Login_Canchas_Entity
 
         private void brnCancelar_Click(object sender, EventArgs e)
         {
-            cClean.limpiarFlogin(tbNombre, tbApellido, rbGenMasculino, rbGenFemenino, dtpFecNacimiento, tbTelefono, tbAlias, tbContraseña);
+            this.Close();
+           //cClean.limpiarFlogin(tbNombre, tbApellido, rbGenMasculino, rbGenFemenino, dtpFecNacimiento, tbTelefono, tbAlias, tbContraseña);
+            
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void lblOlvidoContraseña_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
