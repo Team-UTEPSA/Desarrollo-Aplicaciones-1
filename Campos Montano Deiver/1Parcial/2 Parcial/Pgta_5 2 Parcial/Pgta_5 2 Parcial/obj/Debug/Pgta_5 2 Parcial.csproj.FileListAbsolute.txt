@@ -1,6 +1,0 @@
-D:\Escritorio\1Parcial\2 Parcial\Pgta_5 2 Parcial\Pgta_5 2 Parcial\bin\Debug\Pgta_5 2 Parcial.exe.config
-D:\Escritorio\1Parcial\2 Parcial\Pgta_5 2 Parcial\Pgta_5 2 Parcial\obj\Debug\Pgta_5 2 Parcial.csprojResolveAssemblyReference.cache
-D:\Escritorio\1Parcial\2 Parcial\Pgta_5 2 Parcial\Pgta_5 2 Parcial\bin\Debug\Pgta_5 2 Parcial.exe
-D:\Escritorio\1Parcial\2 Parcial\Pgta_5 2 Parcial\Pgta_5 2 Parcial\bin\Debug\Pgta_5 2 Parcial.pdb
-D:\Escritorio\1Parcial\2 Parcial\Pgta_5 2 Parcial\Pgta_5 2 Parcial\obj\Debug\Pgta_5 2 Parcial.exe
-D:\Escritorio\1Parcial\2 Parcial\Pgta_5 2 Parcial\Pgta_5 2 Parcial\obj\Debug\Pgta_5 2 Parcial.pdb
