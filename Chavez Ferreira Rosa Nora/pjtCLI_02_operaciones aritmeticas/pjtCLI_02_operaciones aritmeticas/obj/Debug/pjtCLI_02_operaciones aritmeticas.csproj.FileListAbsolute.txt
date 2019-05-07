@@ -1,0 +1,9 @@
+C:\Users\503141\Desktop\DAP1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\bin\Debug\pjtCLI_02_operaciones aritmeticas.exe.config
+C:\Users\503141\Desktop\DAP1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\bin\Debug\pjtCLI_02_operaciones aritmeticas.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\bin\Debug\pjtCLI_02_operaciones aritmeticas.pdb
+C:\Users\503141\Desktop\DAP1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\obj\Debug\pjtCLI_02_operaciones aritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\503141\Desktop\DAP1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\obj\Debug\pjtCLI_02_operaciones aritmeticas.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\obj\Debug\pjtCLI_02_operaciones aritmeticas.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\bin\Debug\pjtCLI_02_operaciones aritmeticas.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\obj\Debug\pjtCLI_02_operaciones aritmeticas.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_02_operaciones aritmeticas\pjtCLI_02_operaciones aritmeticas\obj\Debug\pjtCLI_02_operaciones aritmeticas.pdb

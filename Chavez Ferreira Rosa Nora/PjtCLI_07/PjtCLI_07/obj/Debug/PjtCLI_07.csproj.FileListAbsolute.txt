@@ -1,0 +1,6 @@
+C:\Users\Rosa Chavez\Desktop\dap1\PjtCLI_07\PjtCLI_07\bin\Debug\PjtCLI_07.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\PjtCLI_07\PjtCLI_07\bin\Debug\PjtCLI_07.exe
+C:\Users\Rosa Chavez\Desktop\dap1\PjtCLI_07\PjtCLI_07\bin\Debug\PjtCLI_07.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\PjtCLI_07\PjtCLI_07\obj\Debug\PjtCLI_07.csprojResolveAssemblyReference.cache
+C:\Users\Rosa Chavez\Desktop\dap1\PjtCLI_07\PjtCLI_07\obj\Debug\PjtCLI_07.exe
+C:\Users\Rosa Chavez\Desktop\dap1\PjtCLI_07\PjtCLI_07\obj\Debug\PjtCLI_07.pdb

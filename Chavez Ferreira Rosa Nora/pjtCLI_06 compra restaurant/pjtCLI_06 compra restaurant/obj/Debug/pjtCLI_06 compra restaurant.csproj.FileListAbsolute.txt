@@ -1,0 +1,8 @@
+C:\Users\503141\Desktop\DAP1\pjtCLI_06 compra restaurant\pjtCLI_06 compra restaurant\bin\Debug\pjtCLI_06 compra restaurant.exe.config
+E:\DAP1\pjtCLI_06 compra restaurant\pjtCLI_06 compra restaurant\bin\Debug\pjtCLI_06 compra restaurant.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_06 compra restaurant\pjtCLI_06 compra restaurant\bin\Debug\pjtCLI_06 compra restaurant.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_06 compra restaurant\pjtCLI_06 compra restaurant\bin\Debug\pjtCLI_06 compra restaurant.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_06 compra restaurant\pjtCLI_06 compra restaurant\bin\Debug\pjtCLI_06 compra restaurant.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_06 compra restaurant\pjtCLI_06 compra restaurant\obj\Debug\pjtCLI_06 compra restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_06 compra restaurant\pjtCLI_06 compra restaurant\obj\Debug\pjtCLI_06 compra restaurant.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_06 compra restaurant\pjtCLI_06 compra restaurant\obj\Debug\pjtCLI_06 compra restaurant.pdb

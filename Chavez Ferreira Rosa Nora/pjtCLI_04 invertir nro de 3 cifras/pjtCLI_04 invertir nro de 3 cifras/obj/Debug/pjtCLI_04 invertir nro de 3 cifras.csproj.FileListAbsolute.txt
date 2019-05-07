@@ -1,0 +1,11 @@
+C:\Users\503141\Desktop\DAP1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\bin\Debug\pjtCLI_04 invertir nro de 3 cifras.exe.config
+C:\Users\503141\Desktop\DAP1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\bin\Debug\pjtCLI_04 invertir nro de 3 cifras.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\bin\Debug\pjtCLI_04 invertir nro de 3 cifras.pdb
+C:\Users\503141\Desktop\DAP1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\obj\Debug\pjtCLI_04 invertir nro de 3 cifras.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\obj\Debug\pjtCLI_04 invertir nro de 3 cifras.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\bin\Debug\pjtCLI_04 invertir nro de 3 cifras.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\obj\Debug\pjtCLI_04 invertir nro de 3 cifras.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\obj\Debug\pjtCLI_04 invertir nro de 3 cifras.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\bin\Debug\pjtCLI_04 invertir nro de 3 cifras.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\bin\Debug\pjtCLI_04 invertir nro de 3 cifras.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_04 invertir nro de 3 cifras\pjtCLI_04 invertir nro de 3 cifras\obj\Debug\pjtCLI_04 invertir nro de 3 cifras.csprojResolveAssemblyReference.cache
