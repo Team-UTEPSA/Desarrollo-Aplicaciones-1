@@ -45,6 +45,8 @@
             this.txtMontoPago = new System.Windows.Forms.TextBox();
             this.cmbTipo = new System.Windows.Forms.ComboBox();
             this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txtMontoDescuento = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button1
@@ -77,6 +79,7 @@
             this.txtHoraInicio.Name = "txtHoraInicio";
             this.txtHoraInicio.Size = new System.Drawing.Size(200, 22);
             this.txtHoraInicio.TabIndex = 3;
+            this.txtHoraInicio.TextChanged += new System.EventHandler(this.txtHoraInicio_TextChanged);
             // 
             // cmbCliente
             // 
@@ -159,15 +162,15 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(408, 220);
+            this.label6.Location = new System.Drawing.Point(397, 185);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(58, 17);
+            this.label6.Size = new System.Drawing.Size(47, 17);
             this.label6.TabIndex = 16;
-            this.label6.Text = "Hora fin";
+            this.label6.Text = "Monto";
             // 
             // txtMontoPago
             // 
-            this.txtMontoPago.Location = new System.Drawing.Point(483, 217);
+            this.txtMontoPago.Location = new System.Drawing.Point(472, 182);
             this.txtMontoPago.Name = "txtMontoPago";
             this.txtMontoPago.Size = new System.Drawing.Size(216, 22);
             this.txtMontoPago.TabIndex = 13;
@@ -193,11 +196,29 @@
             this.label7.TabIndex = 17;
             this.label7.Text = "Tipo de Pago";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(397, 220);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(76, 17);
+            this.label8.TabIndex = 20;
+            this.label8.Text = "Descuento";
+            // 
+            // txtMontoDescuento
+            // 
+            this.txtMontoDescuento.Location = new System.Drawing.Point(472, 217);
+            this.txtMontoDescuento.Name = "txtMontoDescuento";
+            this.txtMontoDescuento.Size = new System.Drawing.Size(216, 22);
+            this.txtMontoDescuento.TabIndex = 19;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(740, 322);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.txtMontoDescuento);
             this.Controls.Add(this.cmbTipo);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -242,6 +263,8 @@
         private System.Windows.Forms.TextBox txtMontoPago;
         private System.Windows.Forms.ComboBox cmbTipo;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.TextBox txtMontoDescuento;
     }
 }
 
