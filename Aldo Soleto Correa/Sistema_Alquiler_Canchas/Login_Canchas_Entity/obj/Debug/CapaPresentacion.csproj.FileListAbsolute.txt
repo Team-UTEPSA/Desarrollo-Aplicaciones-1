@@ -38,3 +38,6 @@ C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\Login_Canchas_Ent
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.exe
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.pdb
+C:\Users\RODRIGO\Desktop\DAP I\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\bin\Debug\Login_Canchas_Entity.exe.config
+C:\Users\RODRIGO\Desktop\DAP I\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.exe
+C:\Users\RODRIGO\Desktop\DAP I\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Sistema_Alquiler_Canchas\Login_Canchas_Entity\obj\Debug\Login_Canchas_Entity.pdb

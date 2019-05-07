@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbCanchaV01ModelStoreContainer" CdmEntityContainer="dbCanchaV01Entities1">
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCalendarioAtencion">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblCalendarioAtencion">
+        <MappingFragment StoreEntitySet="tblCalendarioAtencion">
+          <ScalarProperty Name="idHorarioAtencion" ColumnName="idHorarioAtencion" />
+          <ScalarProperty Name="fkPoliDeportivo" ColumnName="fkPoliDeportivo" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Apertura" ColumnName="Apertura" />
+          <ScalarProperty Name="Cierre" ColumnName="Cierre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCancha">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblCancha">
+        <MappingFragment StoreEntitySet="tblCancha">
+          <ScalarProperty Name="idCancha" ColumnName="idCancha" />
+          <ScalarProperty Name="fkPoliDeportivo" ColumnName="fkPoliDeportivo" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Capacidad" ColumnName="Capacidad" />
+          <ScalarProperty Name="Largo" ColumnName="Largo" />
+          <ScalarProperty Name="Ancho" ColumnName="Ancho" />
+          <ScalarProperty Name="PrecioHoraDia" ColumnName="PrecioHoraDia" />
+          <ScalarProperty Name="PrecioHoraNoche" ColumnName="PrecioHoraNoche" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCliente">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblCliente">
+        <MappingFragment StoreEntitySet="tblCliente">
+          <ScalarProperty Name="idCliente" ColumnName="idCliente" />
+          <ScalarProperty Name="fkPersona" ColumnName="fkPersona" />
+          <ScalarProperty Name="NIT" ColumnName="NIT" />
+          <ScalarProperty Name="RazonSocial" ColumnName="RazonSocial" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblCuentaUsuario">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblCuentaUsuario">
+        <MappingFragment StoreEntitySet="tblCuentaUsuario">
+          <ScalarProperty Name="idCuentaUsuario" ColumnName="idCuentaUsuario" />
+          <ScalarProperty Name="fkPersona" ColumnName="fkPersona" />
+          <ScalarProperty Name="TipoUsuario" ColumnName="TipoUsuario" />
+          <ScalarProperty Name="FechaRegistro" ColumnName="FechaRegistro" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblMensajes">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblMensajes">
+        <MappingFragment StoreEntitySet="tblMensajes">
+          <ScalarProperty Name="idMensaje" ColumnName="idMensaje" />
+          <ScalarProperty Name="fkCliente" ColumnName="fkCliente" />
+          <ScalarProperty Name="FechaRecepcion" ColumnName="FechaRecepcion" />
+          <ScalarProperty Name="Mensaje" ColumnName="Mensaje" />
+          <ScalarProperty Name="Respuesta" ColumnName="Respuesta" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPago">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblPago">
+        <MappingFragment StoreEntitySet="tblPago">
+          <ScalarProperty Name="idPago" ColumnName="idPago" />
+          <ScalarProperty Name="fkReserva" ColumnName="fkReserva" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Tipo" ColumnName="Tipo" />
+          <ScalarProperty Name="Monto" ColumnName="Monto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPersona">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblPersona">
+        <MappingFragment StoreEntitySet="tblPersona">
+          <ScalarProperty Name="idPersona" ColumnName="idPersona" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Usuario" ColumnName="Usuario" />
+          <ScalarProperty Name="Contraseña" ColumnName="Contraseña" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPersonal">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblPersonal">
+        <MappingFragment StoreEntitySet="tblPersonal">
+          <ScalarProperty Name="idPersonal" ColumnName="idPersonal" />
+          <ScalarProperty Name="fkPersona" ColumnName="fkPersona" />
+          <ScalarProperty Name="Cargo" ColumnName="Cargo" />
+          <ScalarProperty Name="Horario" ColumnName="Horario" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPoliDeportivo">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblPoliDeportivo">
+        <MappingFragment StoreEntitySet="tblPoliDeportivo">
+          <ScalarProperty Name="idPoliDeportivo" ColumnName="idPoliDeportivo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Ubicacion" ColumnName="Ubicacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblReserva">
+      <EntityTypeMapping TypeName="dbCanchaV01Model.tblReserva">
+        <MappingFragment StoreEntitySet="tblReserva">
+          <ScalarProperty Name="idReserva" ColumnName="idReserva" />
+          <ScalarProperty Name="fkCliente" ColumnName="fkCliente" />
+          <ScalarProperty Name="fkCancha" ColumnName="fkCancha" />
+          <ScalarProperty Name="fkPersonal" ColumnName="fkPersonal" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Inicio" ColumnName="Inicio" />
+          <ScalarProperty Name="Final" ColumnName="Final" />
+          <ScalarProperty Name="PrecioHoraAlquiler" ColumnName="PrecioHoraAlquiler" />
+          <ScalarProperty Name="EstadoReserva" ColumnName="EstadoReserva" />
+          <ScalarProperty Name="EstadoPago" ColumnName="EstadoPago" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="dbCanchaV01Model.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="dbCanchaV01Model.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="dbCanchaV01Model.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="dbCanchaV01Model.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="dbCanchaV01Model.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="dbCanchaV01Model.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="dbCanchaV01Model.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="dbCanchaV01Model.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="dbCanchaV01Model.Store.sp_upgraddiagrams" />
+  </EntityContainerMapping>
+</Mapping>

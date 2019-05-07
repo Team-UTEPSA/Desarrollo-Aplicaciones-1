@@ -4,3 +4,6 @@ C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\bin\Debug\Login_Archi
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\bin\Debug\Login_Archivos.pdb
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\obj\Debug\Login_Archivos.exe
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\Login\Login_Archivos\obj\Debug\Login_Archivos.pdb
+C:\Users\RODRIGO\Desktop\DAP I\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Login\Login_Archivos\bin\Debug\Login_Archivos.exe.config
+C:\Users\RODRIGO\Desktop\DAP I\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Login\Login_Archivos\obj\Debug\Login_Archivos.exe
+C:\Users\RODRIGO\Desktop\DAP I\Desarrollo-Aplicaciones-1\Aldo Soleto Correa\Login\Login_Archivos\obj\Debug\Login_Archivos.pdb

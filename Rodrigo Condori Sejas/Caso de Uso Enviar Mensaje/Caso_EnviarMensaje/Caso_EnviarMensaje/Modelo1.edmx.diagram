@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="75cf24348957472c8d4e02e5302f4ec4" Name="Diagram1">
+        <EntityTypeShape EntityType="dbCanchaV01Model.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblCalendarioAtencion" Width="1.5" PointX="3" PointY="17.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblCancha" Width="1.5" PointX="3" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblCliente" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblCuentaUsuario" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblMensajes" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblPago" Width="1.5" PointX="7.5" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblPersona" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblPersonal" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblPoliDeportivo" Width="1.5" PointX="0.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbCanchaV01Model.tblReserva" Width="1.5" PointX="5.25" PointY="7" IsExpanded="true" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblCalend__fkPol__1FCDBCEB" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblCancha__fkPol__22AA2996" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblReserv__fkCan__267ABA7A" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblClient__fkPer__182C9B23" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblMensaj__fkCli__1B0907CE" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblReserv__fkCli__25869641" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblCuenta__fkPer__1273C1CD" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblPago__fkReser__2A4B4B5E" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblPerson__fkPer__15502E78" ManuallyRouted="false" />
+        <AssociationConnector Association="dbCanchaV01Model.FK__tblReserv__fkPer__276EDEB3" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

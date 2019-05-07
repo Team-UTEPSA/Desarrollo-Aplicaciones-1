@@ -1,0 +1,2 @@
+
+metadata=res://*/Entity_Canchas.csdl|res://*/Entity_Canchas.ssdl|res://*/Entity_Canchas.msl;provider=System.Data.SqlClient;provider connection string="data source=.;initial catalog=dbCanchaV01;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework"
