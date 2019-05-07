@@ -1,0 +1,6 @@
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_05 Operaciones basicas\pjtCLI_05 Operaciones basicas\bin\Debug\pjtCLI_05 Operaciones basicas.exe.config
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_05 Operaciones basicas\pjtCLI_05 Operaciones basicas\bin\Debug\pjtCLI_05 Operaciones basicas.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_05 Operaciones basicas\pjtCLI_05 Operaciones basicas\bin\Debug\pjtCLI_05 Operaciones basicas.pdb
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_05 Operaciones basicas\pjtCLI_05 Operaciones basicas\obj\Debug\pjtCLI_05 Operaciones basicas.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_05 Operaciones basicas\pjtCLI_05 Operaciones basicas\obj\Debug\pjtCLI_05 Operaciones basicas.pdb
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_05 Operaciones basicas\pjtCLI_05 Operaciones basicas\obj\Debug\pjtCLI_05 Operaciones basicas.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_09 Ejercicio propuesto\pjtCLI_09 Ejercicio propuesto\bin\Debug\pjtCLI_09 Ejercicio propuesto.exe.config
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_09 Ejercicio propuesto\pjtCLI_09 Ejercicio propuesto\bin\Debug\pjtCLI_09 Ejercicio propuesto.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_09 Ejercicio propuesto\pjtCLI_09 Ejercicio propuesto\bin\Debug\pjtCLI_09 Ejercicio propuesto.pdb
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_09 Ejercicio propuesto\pjtCLI_09 Ejercicio propuesto\obj\Debug\pjtCLI_09 Ejercicio propuesto.csprojResolveAssemblyReference.cache
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_09 Ejercicio propuesto\pjtCLI_09 Ejercicio propuesto\obj\Debug\pjtCLI_09 Ejercicio propuesto.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_09 Ejercicio propuesto\pjtCLI_09 Ejercicio propuesto\obj\Debug\pjtCLI_09 Ejercicio propuesto.pdb

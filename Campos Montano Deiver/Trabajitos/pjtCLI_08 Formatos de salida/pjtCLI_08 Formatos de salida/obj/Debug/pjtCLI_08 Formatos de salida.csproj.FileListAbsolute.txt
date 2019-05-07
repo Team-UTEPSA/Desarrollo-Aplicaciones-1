@@ -1,0 +1,5 @@
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_08 Formatos de salida\pjtCLI_08 Formatos de salida\bin\Debug\pjtCLI_08 Formatos de salida.exe.config
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_08 Formatos de salida\pjtCLI_08 Formatos de salida\bin\Debug\pjtCLI_08 Formatos de salida.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_08 Formatos de salida\pjtCLI_08 Formatos de salida\bin\Debug\pjtCLI_08 Formatos de salida.pdb
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_08 Formatos de salida\pjtCLI_08 Formatos de salida\obj\Debug\pjtCLI_08 Formatos de salida.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_08 Formatos de salida\pjtCLI_08 Formatos de salida\obj\Debug\pjtCLI_08 Formatos de salida.pdb

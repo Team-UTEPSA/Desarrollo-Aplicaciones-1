@@ -1,0 +1,5 @@
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_07 Funciones basicas libresi MATH\pjtCLI_07 Funciones basicas libresi MATH\bin\Debug\pjtCLI_07 Funciones basicas libresi MATH.exe.config
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_07 Funciones basicas libresi MATH\pjtCLI_07 Funciones basicas libresi MATH\bin\Debug\pjtCLI_07 Funciones basicas libresi MATH.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_07 Funciones basicas libresi MATH\pjtCLI_07 Funciones basicas libresi MATH\bin\Debug\pjtCLI_07 Funciones basicas libresi MATH.pdb
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_07 Funciones basicas libresi MATH\pjtCLI_07 Funciones basicas libresi MATH\obj\Debug\pjtCLI_07 Funciones basicas libresi MATH.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_07 Funciones basicas libresi MATH\pjtCLI_07 Funciones basicas libresi MATH\obj\Debug\pjtCLI_07 Funciones basicas libresi MATH.pdb

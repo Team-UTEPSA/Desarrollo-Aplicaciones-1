@@ -1,0 +1,5 @@
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_06 Compra en restarurant\pjtCLI_06 Compra en restarurant\bin\Debug\pjtCLI_06 Compra en restarurant.exe.config
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_06 Compra en restarurant\pjtCLI_06 Compra en restarurant\bin\Debug\pjtCLI_06 Compra en restarurant.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_06 Compra en restarurant\pjtCLI_06 Compra en restarurant\bin\Debug\pjtCLI_06 Compra en restarurant.pdb
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_06 Compra en restarurant\pjtCLI_06 Compra en restarurant\obj\Debug\pjtCLI_06 Compra en restarurant.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_06 Compra en restarurant\pjtCLI_06 Compra en restarurant\obj\Debug\pjtCLI_06 Compra en restarurant.pdb

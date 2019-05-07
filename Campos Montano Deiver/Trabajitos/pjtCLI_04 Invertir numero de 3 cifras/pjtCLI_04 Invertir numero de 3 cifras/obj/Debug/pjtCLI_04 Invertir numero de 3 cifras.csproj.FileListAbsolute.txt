@@ -1,0 +1,6 @@
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_04 Invertir numero de 3 cifras\pjtCLI_04 Invertir numero de 3 cifras\bin\Debug\pjtCLI_04 Invertir numero de 3 cifras.exe.config
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_04 Invertir numero de 3 cifras\pjtCLI_04 Invertir numero de 3 cifras\bin\Debug\pjtCLI_04 Invertir numero de 3 cifras.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_04 Invertir numero de 3 cifras\pjtCLI_04 Invertir numero de 3 cifras\bin\Debug\pjtCLI_04 Invertir numero de 3 cifras.pdb
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_04 Invertir numero de 3 cifras\pjtCLI_04 Invertir numero de 3 cifras\obj\Debug\pjtCLI_04 Invertir numero de 3 cifras.csprojResolveAssemblyReference.cache
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_04 Invertir numero de 3 cifras\pjtCLI_04 Invertir numero de 3 cifras\obj\Debug\pjtCLI_04 Invertir numero de 3 cifras.exe
+D:\Escritorio\UTEPSA\Dab 1\pjtCLI_04 Invertir numero de 3 cifras\pjtCLI_04 Invertir numero de 3 cifras\obj\Debug\pjtCLI_04 Invertir numero de 3 cifras.pdb
