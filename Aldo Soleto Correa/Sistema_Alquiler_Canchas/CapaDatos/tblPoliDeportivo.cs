@@ -17,8 +17,8 @@ namespace CapaDatos
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public tblPoliDeportivo()
         {
+            this.tblCalendarioAtencion = new HashSet<tblCalendarioAtencion>();
             this.tblCancha = new HashSet<tblCancha>();
-            this.tblHorarioAtencion = new HashSet<tblHorarioAtencion>();
         }
     
         public int idPoliDeportivo { get; set; }
@@ -29,8 +29,8 @@ namespace CapaDatos
         public bool Abierto { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<tblCancha> tblCancha { get; set; }
+        public virtual ICollection<tblCalendarioAtencion> tblCalendarioAtencion { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<tblHorarioAtencion> tblHorarioAtencion { get; set; }
+        public virtual ICollection<tblCancha> tblCancha { get; set; }
     }
 }

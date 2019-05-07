@@ -12,12 +12,14 @@ namespace CapaDatos
     using System;
     using System.Collections.Generic;
     
-    public partial class sysdiagrams
+    public partial class tblCuentaUsuario
     {
-        public string name { get; set; }
-        public int principal_id { get; set; }
-        public int diagram_id { get; set; }
-        public Nullable<int> version { get; set; }
-        public byte[] definition { get; set; }
+        public int idCuentaUsuario { get; set; }
+        public int fkPersona { get; set; }
+        public Nullable<int> TipoUsuario { get; set; }
+        public System.DateTime FechaRegistro { get; set; }
+        public int Estado { get; set; }
+    
+        public virtual tblPersona tblPersona { get; set; }
     }
 }

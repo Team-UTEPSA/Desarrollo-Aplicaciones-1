@@ -14,13 +14,27 @@ namespace CapaDatos
     
     public partial class tblReserva
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public tblReserva()
+        {
+            this.tblPago = new HashSet<tblPago>();
+        }
+    
         public int idReserva { get; set; }
+        public int fkCliente { get; set; }
         public int fkCancha { get; set; }
+        public int fkPersonal { get; set; }
         public System.DateTime Fecha { get; set; }
         public System.TimeSpan Inicio { get; set; }
         public System.TimeSpan Final { get; set; }
-        public int Estado { get; set; }
+        public int EstadoReserva { get; set; }
+        public decimal PrecioAlquiler { get; set; }
+        public int EstadoPago { get; set; }
     
         public virtual tblCancha tblCancha { get; set; }
+        public virtual tblCliente tblCliente { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<tblPago> tblPago { get; set; }
+        public virtual tblPersonal tblPersonal { get; set; }
     }
 }

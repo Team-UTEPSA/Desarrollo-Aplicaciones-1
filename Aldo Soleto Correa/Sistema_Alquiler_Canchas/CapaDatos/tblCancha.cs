@@ -21,15 +21,15 @@ namespace CapaDatos
         }
     
         public int idCancha { get; set; }
-        public int fkPolideportivo { get; set; }
+        public int fkPoliDeportivo { get; set; }
         public string Codigo { get; set; }
         public string Nombre { get; set; }
         public string Tipo { get; set; }
         public string Capacidad { get; set; }
         public int Largo { get; set; }
         public int Ancho { get; set; }
-        public int PrecioDia { get; set; }
-        public int PrecioNoche { get; set; }
+        public decimal PrecioDia { get; set; }
+        public decimal PrecioNoche { get; set; }
         public System.Data.Entity.Spatial.DbGeography Ubicacion { get; set; }
     
         public virtual tblPoliDeportivo tblPoliDeportivo { get; set; }

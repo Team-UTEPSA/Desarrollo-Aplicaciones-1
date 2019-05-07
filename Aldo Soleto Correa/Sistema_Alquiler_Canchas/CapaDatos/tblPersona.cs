@@ -18,7 +18,7 @@ namespace CapaDatos
         public tblPersona()
         {
             this.tblCliente = new HashSet<tblCliente>();
-            this.tblCtaUsuario = new HashSet<tblCtaUsuario>();
+            this.tblCuentaUsuario = new HashSet<tblCuentaUsuario>();
             this.tblPersonal = new HashSet<tblPersonal>();
         }
     
@@ -34,7 +34,7 @@ namespace CapaDatos
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<tblCliente> tblCliente { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<tblCtaUsuario> tblCtaUsuario { get; set; }
+        public virtual ICollection<tblCuentaUsuario> tblCuentaUsuario { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<tblPersonal> tblPersonal { get; set; }
     }

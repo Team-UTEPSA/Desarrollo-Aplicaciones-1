@@ -12,15 +12,14 @@ namespace CapaDatos
     using System;
     using System.Collections.Generic;
     
-    public partial class tblDetallePago
+    public partial class tblCalendarioAtencion
     {
-        public int idDetallePago { get; set; }
-        public int fkPago { get; set; }
-        public int fkServicio { get; set; }
-        public int TipoServicio { get; set; }
-        public int Cantidad { get; set; }
+        public int idHorarioAtencion { get; set; }
+        public int fkPoliDeportivo { get; set; }
+        public Nullable<System.DateTime> Fecha { get; set; }
+        public Nullable<System.TimeSpan> Apertura { get; set; }
+        public Nullable<System.TimeSpan> Cierre { get; set; }
     
-        public virtual tblPago tblPago { get; set; }
-        public virtual tblServicios tblServicios { get; set; }
+        public virtual tblPoliDeportivo tblPoliDeportivo { get; set; }
     }
 }

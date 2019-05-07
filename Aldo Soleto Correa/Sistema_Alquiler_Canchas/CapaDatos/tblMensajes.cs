@@ -16,9 +16,9 @@ namespace CapaDatos
     {
         public int idMensaje { get; set; }
         public int fkCliente { get; set; }
+        public System.DateTime FechaRecepcion { get; set; }
         public string Mensaje { get; set; }
         public string Respuesta { get; set; }
-        public System.DateTime FechaRecepcion { get; set; }
         public int Estado { get; set; }
     
         public virtual tblCliente tblCliente { get; set; }

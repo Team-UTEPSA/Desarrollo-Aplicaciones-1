@@ -9,13 +9,15 @@ namespace CapaLogica_Negocio
 {
     public class CLogin
     {
-        CapaDatos.DBCanchaEntities cancha = new CapaDatos.DBCanchaEntities();
+        //CapaDatos.DBCanchaEntities cancha = new CapaDatos.DBCanchaEntities();
+        CapaDatos.dbCancha2Entities cancha2 = new CapaDatos.dbCancha2Entities();
+        
         public bool  ValidarUsuario(TextBox user, TextBox pass)
         {
 
             bool ok = true;
-            var quser = (from q in this.cancha.tblPersona
-                        where q.Usuario == user.Text && q.Contraseña == pass.Text
+            var quser = (from q in this.cancha2.tblPersona
+                        where q.Usuario == user.Text.Trim() && q.Contraseña == pass.Text.Trim()
                          select q).ToList().FirstOrDefault();
 
                 if (quser != null)
@@ -28,8 +30,8 @@ namespace CapaLogica_Negocio
                 }
         }
 
-        public void registrarPersona(TextBox nomb, TextBox ap, RadioButton genm, RadioButton genf, DateTimePicker fecnac,
-                                     TextBox telf, TextBox alias, TextBox pass)
+        public void registrarPersona(TextBox nomb, TextBox ap, RadioButton genm, RadioButton genf, 
+                                    DateTimePicker fecnac, TextBox telf, TextBox alias, TextBox pass)
         {
             try
             {
@@ -46,10 +48,11 @@ namespace CapaLogica_Negocio
                 }
                 pers.FechaNacimiento = Convert.ToDateTime(fecnac.Text);
                 pers.Telefono = telf.Text;
-                pers.Usuario = alias.Text;
-                pers.Contraseña = pass.Text;
-                cancha.tblPersona.Add(pers);
-                cancha.SaveChanges();
+                pers.Usuario = alias.Text.Trim();
+                pers.Contraseña = pass.Text.Trim();
+                cancha2.tblPersona.Add(pers);
+                cancha2.SaveChanges();
+                registrarTipoCuentaUsuario();
                 MessageBox.Show("Usuario Registrado!!");
             }
 
@@ -62,19 +65,54 @@ namespace CapaLogica_Negocio
         public Boolean  validarAlias(TextBox user)
         {
             bool ok = true;
-            var quser = (from q in this.cancha.tblPersona
+            var quser = (from q in this.cancha2.tblPersona
                          where q.Usuario == user.Text
                          select q).ToList().FirstOrDefault();
 
             if (quser != null)
             {
                 return ok;
+                //MessageBox.Show("El Usuario ya esta registrado");
             }
             else
             {
                 return false;
             }
 
+        }
+        public Boolean validarTelefono(TextBox telf)
+        {
+            bool ok = true;
+            var quser = (from q in this.cancha2.tblPersona
+                         where q.Telefono == telf.Text
+                         select q).ToList().FirstOrDefault();
+
+            if (quser != null)
+            {
+                return ok;
+                //MessageBox.Show("El Usuario ya esta registrado");
+            }
+            else
+            {
+                return false;
+            }
+        }
+        
+        public void registrarTipoCuentaUsuario( )
+        {
+            var quser = this.cancha2.tblPersona
+                        .OrderByDescending(x => x.idPersona)
+                         .FirstOrDefault().idPersona;
+            if(quser !=0)
+            {
+                CapaDatos.tblCuentaUsuario cta = new CapaDatos.tblCuentaUsuario();
+                cta.fkPersona = quser;
+                cta.TipoUsuario = 2;
+                cta.FechaRegistro = DateTime.Now;
+                cta.Estado = 1;
+                cancha2.tblCuentaUsuario.Add(cta);
+                cancha2.SaveChanges();
+            }
         }
     }
 }

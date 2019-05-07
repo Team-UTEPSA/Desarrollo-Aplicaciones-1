@@ -18,19 +18,18 @@ namespace CapaDatos
         public tblCliente()
         {
             this.tblMensajes = new HashSet<tblMensajes>();
-            this.tblPago = new HashSet<tblPago>();
+            this.tblReserva = new HashSet<tblReserva>();
         }
     
         public int idCliente { get; set; }
         public int fkPersona { get; set; }
-        public string Nit { get; set; }
+        public string NIT { get; set; }
         public string RazonSocial { get; set; }
-        public int Puntos { get; set; }
     
         public virtual tblPersona tblPersona { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<tblMensajes> tblMensajes { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<tblPago> tblPago { get; set; }
+        public virtual ICollection<tblReserva> tblReserva { get; set; }
     }
 }

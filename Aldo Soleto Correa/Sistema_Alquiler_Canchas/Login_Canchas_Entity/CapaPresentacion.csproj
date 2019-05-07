@@ -109,5 +109,14 @@
       <Name>CapaLogica_Negocio</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basquet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\futbol 5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Futbol 7.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

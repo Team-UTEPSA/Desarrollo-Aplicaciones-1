@@ -28,8 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.lblOlvidoContraseña = new System.Windows.Forms.Label();
             this.tbPass = new System.Windows.Forms.TextBox();
             this.tbUsuario = new System.Windows.Forms.TextBox();
             this.btnCancelar = new System.Windows.Forms.Button();
@@ -38,6 +40,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.lblEstado = new System.Windows.Forms.Label();
             this.tbTelefono = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
             this.dtpFecNacimiento = new System.Windows.Forms.DateTimePicker();
@@ -55,23 +58,23 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.lblOlvidoContraseña = new System.Windows.Forms.Label();
-            this.lblEstado = new System.Windows.Forms.Label();
+            this.eProvider = new System.Windows.Forms.ErrorProvider(this.components);
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.tabPage2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.eProvider)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Location = new System.Drawing.Point(6, 5);
+            this.tabControl1.Location = new System.Drawing.Point(1, 0);
             this.tabControl1.Margin = new System.Windows.Forms.Padding(2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(230, 263);
+            this.tabControl1.Size = new System.Drawing.Size(239, 268);
             this.tabControl1.TabIndex = 9;
             // 
             // tabPage1
@@ -89,9 +92,20 @@
             this.tabPage1.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(2);
-            this.tabPage1.Size = new System.Drawing.Size(222, 237);
+            this.tabPage1.Size = new System.Drawing.Size(231, 242);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "LOGIN";
+            // 
+            // lblOlvidoContraseña
+            // 
+            this.lblOlvidoContraseña.AutoSize = true;
+            this.lblOlvidoContraseña.ForeColor = System.Drawing.Color.Blue;
+            this.lblOlvidoContraseña.Location = new System.Drawing.Point(56, 217);
+            this.lblOlvidoContraseña.Name = "lblOlvidoContraseña";
+            this.lblOlvidoContraseña.Size = new System.Drawing.Size(113, 13);
+            this.lblOlvidoContraseña.TabIndex = 9;
+            this.lblOlvidoContraseña.Text = "Olvido su contraseña?";
+            this.lblOlvidoContraseña.Visible = false;
             // 
             // tbPass
             // 
@@ -100,7 +114,7 @@
             this.tbPass.Name = "tbPass";
             this.tbPass.PasswordChar = '*';
             this.tbPass.Size = new System.Drawing.Size(83, 20);
-            this.tbPass.TabIndex = 8;
+            this.tbPass.TabIndex = 2;
             // 
             // tbUsuario
             // 
@@ -108,7 +122,7 @@
             this.tbUsuario.Margin = new System.Windows.Forms.Padding(2);
             this.tbUsuario.Name = "tbUsuario";
             this.tbUsuario.Size = new System.Drawing.Size(83, 20);
-            this.tbUsuario.TabIndex = 7;
+            this.tbUsuario.TabIndex = 1;
             // 
             // btnCancelar
             // 
@@ -116,9 +130,10 @@
             this.btnCancelar.Margin = new System.Windows.Forms.Padding(2);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(68, 26);
-            this.btnCancelar.TabIndex = 6;
+            this.btnCancelar.TabIndex = 4;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // label2
             // 
@@ -136,7 +151,7 @@
             this.btnAceptar.Margin = new System.Windows.Forms.Padding(2);
             this.btnAceptar.Name = "btnAceptar";
             this.btnAceptar.Size = new System.Drawing.Size(68, 26);
-            this.btnAceptar.TabIndex = 5;
+            this.btnAceptar.TabIndex = 3;
             this.btnAceptar.Text = "Aceptar";
             this.btnAceptar.UseVisualStyleBackColor = true;
             this.btnAceptar.Click += new System.EventHandler(this.btnAceptar_Click);
@@ -144,7 +159,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(34, 133);
+            this.label1.Location = new System.Drawing.Point(34, 136);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(43, 13);
@@ -187,9 +202,19 @@
             this.tabPage2.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(2);
-            this.tabPage2.Size = new System.Drawing.Size(222, 237);
+            this.tabPage2.Size = new System.Drawing.Size(231, 242);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "REGISTRO";
+            // 
+            // lblEstado
+            // 
+            this.lblEstado.AutoSize = true;
+            this.lblEstado.Location = new System.Drawing.Point(100, 171);
+            this.lblEstado.Name = "lblEstado";
+            this.lblEstado.Size = new System.Drawing.Size(17, 13);
+            this.lblEstado.TabIndex = 18;
+            this.lblEstado.Text = "lbl";
+            this.lblEstado.Visible = false;
             // 
             // tbTelefono
             // 
@@ -198,7 +223,7 @@
             this.tbTelefono.Margin = new System.Windows.Forms.Padding(2);
             this.tbTelefono.Name = "tbTelefono";
             this.tbTelefono.Size = new System.Drawing.Size(87, 20);
-            this.tbTelefono.TabIndex = 17;
+            this.tbTelefono.TabIndex = 5;
             // 
             // label9
             // 
@@ -216,7 +241,7 @@
             this.dtpFecNacimiento.Location = new System.Drawing.Point(129, 108);
             this.dtpFecNacimiento.Name = "dtpFecNacimiento";
             this.dtpFecNacimiento.Size = new System.Drawing.Size(80, 20);
-            this.dtpFecNacimiento.TabIndex = 15;
+            this.dtpFecNacimiento.TabIndex = 4;
             // 
             // label8
             // 
@@ -241,12 +266,10 @@
             // rbGenMasculino
             // 
             this.rbGenMasculino.AutoSize = true;
-            this.rbGenMasculino.Checked = true;
             this.rbGenMasculino.Location = new System.Drawing.Point(11, 98);
             this.rbGenMasculino.Name = "rbGenMasculino";
             this.rbGenMasculino.Size = new System.Drawing.Size(34, 17);
-            this.rbGenMasculino.TabIndex = 12;
-            this.rbGenMasculino.TabStop = true;
+            this.rbGenMasculino.TabIndex = 3;
             this.rbGenMasculino.Text = "M";
             this.rbGenMasculino.UseVisualStyleBackColor = true;
             // 
@@ -257,7 +280,7 @@
             this.tbContraseña.Name = "tbContraseña";
             this.tbContraseña.PasswordChar = '*';
             this.tbContraseña.Size = new System.Drawing.Size(88, 20);
-            this.tbContraseña.TabIndex = 11;
+            this.tbContraseña.TabIndex = 7;
             // 
             // tbAlias
             // 
@@ -266,8 +289,9 @@
             this.tbAlias.Margin = new System.Windows.Forms.Padding(2);
             this.tbAlias.Name = "tbAlias";
             this.tbAlias.Size = new System.Drawing.Size(87, 20);
-            this.tbAlias.TabIndex = 10;
+            this.tbAlias.TabIndex = 6;
             this.tbAlias.TextChanged += new System.EventHandler(this.tbAlias_TextChanged);
+            this.tbAlias.Validating += new System.ComponentModel.CancelEventHandler(this.tbAlias_Validating);
             // 
             // tbApellido
             // 
@@ -276,7 +300,7 @@
             this.tbApellido.Margin = new System.Windows.Forms.Padding(2);
             this.tbApellido.Name = "tbApellido";
             this.tbApellido.Size = new System.Drawing.Size(204, 20);
-            this.tbApellido.TabIndex = 8;
+            this.tbApellido.TabIndex = 2;
             // 
             // tbNombre
             // 
@@ -285,7 +309,7 @@
             this.tbNombre.Margin = new System.Windows.Forms.Padding(2);
             this.tbNombre.Name = "tbNombre";
             this.tbNombre.Size = new System.Drawing.Size(202, 20);
-            this.tbNombre.TabIndex = 7;
+            this.tbNombre.TabIndex = 1;
             // 
             // brnCancelar
             // 
@@ -293,9 +317,10 @@
             this.brnCancelar.Margin = new System.Windows.Forms.Padding(2);
             this.brnCancelar.Name = "brnCancelar";
             this.brnCancelar.Size = new System.Drawing.Size(80, 29);
-            this.brnCancelar.TabIndex = 6;
+            this.brnCancelar.TabIndex = 9;
             this.brnCancelar.Text = "CANCELAR";
             this.brnCancelar.UseVisualStyleBackColor = true;
+            this.brnCancelar.Click += new System.EventHandler(this.brnCancelar_Click);
             // 
             // btnRegistrar
             // 
@@ -303,7 +328,7 @@
             this.btnRegistrar.Margin = new System.Windows.Forms.Padding(2);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(80, 29);
-            this.btnRegistrar.TabIndex = 5;
+            this.btnRegistrar.TabIndex = 8;
             this.btnRegistrar.Text = "REGISTRAR";
             this.btnRegistrar.UseVisualStyleBackColor = true;
             this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click);
@@ -358,42 +383,26 @@
             this.label3.TabIndex = 0;
             this.label3.Text = "Nombre";
             // 
-            // lblOlvidoContraseña
+            // eProvider
             // 
-            this.lblOlvidoContraseña.AutoSize = true;
-            this.lblOlvidoContraseña.ForeColor = System.Drawing.Color.Blue;
-            this.lblOlvidoContraseña.Location = new System.Drawing.Point(56, 217);
-            this.lblOlvidoContraseña.Name = "lblOlvidoContraseña";
-            this.lblOlvidoContraseña.Size = new System.Drawing.Size(113, 13);
-            this.lblOlvidoContraseña.TabIndex = 9;
-            this.lblOlvidoContraseña.Text = "Olvido su contraseña?";
-            this.lblOlvidoContraseña.Visible = false;
-            // 
-            // lblEstado
-            // 
-            this.lblEstado.AutoSize = true;
-            this.lblEstado.Location = new System.Drawing.Point(100, 171);
-            this.lblEstado.Name = "lblEstado";
-            this.lblEstado.Size = new System.Drawing.Size(17, 13);
-            this.lblEstado.TabIndex = 18;
-            this.lblEstado.Text = "lbl";
-            this.lblEstado.Visible = false;
+            this.eProvider.ContainerControl = this;
             // 
             // frmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(230, 266);
+            this.ClientSize = new System.Drawing.Size(239, 266);
             this.Controls.Add(this.tabControl1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "frmLogin";
-            this.Text = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.tabPage2.ResumeLayout(false);
             this.tabPage2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.eProvider)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -429,6 +438,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label lblOlvidoContraseña;
         private System.Windows.Forms.Label lblEstado;
+        private System.Windows.Forms.ErrorProvider eProvider;
     }
 }
 

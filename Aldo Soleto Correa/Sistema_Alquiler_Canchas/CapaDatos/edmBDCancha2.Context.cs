@@ -13,10 +13,10 @@ namespace CapaDatos
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class DBCanchaEntities : DbContext
+    public partial class dbCancha2Entities : DbContext
     {
-        public DBCanchaEntities()
-            : base("name=DBCanchaEntities")
+        public dbCancha2Entities()
+            : base("name=dbCancha2Entities")
         {
         }
     
@@ -25,21 +25,15 @@ namespace CapaDatos
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
+        public virtual DbSet<tblCalendarioAtencion> tblCalendarioAtencion { get; set; }
         public virtual DbSet<tblCancha> tblCancha { get; set; }
         public virtual DbSet<tblCliente> tblCliente { get; set; }
-        public virtual DbSet<tblCtaUsuario> tblCtaUsuario { get; set; }
-        public virtual DbSet<tblDetallePago> tblDetallePago { get; set; }
-        public virtual DbSet<tblDia> tblDia { get; set; }
-        public virtual DbSet<tblHora> tblHora { get; set; }
-        public virtual DbSet<tblHorarioAtencion> tblHorarioAtencion { get; set; }
+        public virtual DbSet<tblCuentaUsuario> tblCuentaUsuario { get; set; }
         public virtual DbSet<tblMensajes> tblMensajes { get; set; }
         public virtual DbSet<tblPago> tblPago { get; set; }
         public virtual DbSet<tblPersona> tblPersona { get; set; }
         public virtual DbSet<tblPersonal> tblPersonal { get; set; }
         public virtual DbSet<tblPoliDeportivo> tblPoliDeportivo { get; set; }
         public virtual DbSet<tblReserva> tblReserva { get; set; }
-        public virtual DbSet<tblRol> tblRol { get; set; }
-        public virtual DbSet<tblServicios> tblServicios { get; set; }
     }
 }

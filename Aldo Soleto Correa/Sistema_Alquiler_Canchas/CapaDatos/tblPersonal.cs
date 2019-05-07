@@ -14,12 +14,20 @@ namespace CapaDatos
     
     public partial class tblPersonal
     {
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public tblPersonal()
+        {
+            this.tblReserva = new HashSet<tblReserva>();
+        }
+    
         public int idPersonal { get; set; }
-        public int fkPersonal { get; set; }
+        public int fkPersona { get; set; }
         public string Cargo { get; set; }
         public int Horario { get; set; }
         public string Direccion { get; set; }
     
         public virtual tblPersona tblPersona { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<tblReserva> tblReserva { get; set; }
     }
 }

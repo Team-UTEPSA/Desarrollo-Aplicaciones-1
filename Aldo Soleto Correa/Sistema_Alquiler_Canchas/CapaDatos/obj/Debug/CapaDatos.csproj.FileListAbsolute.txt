@@ -8,3 +8,13 @@ C:\Users\ALDO\Desktop\DAP 1\Proyectos\CapaPresentacion\CapaDatos\bin\Debug\Entit
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\ALDO\Desktop\DAP 1\Proyectos\CapaPresentacion\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ALDO\Desktop\DAP 1\Proyectos\Sistema_Alquiler_Canchas\CapaDatos\obj\Debug\CapaDatos.pdb

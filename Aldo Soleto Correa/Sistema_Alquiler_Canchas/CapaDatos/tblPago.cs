@@ -14,21 +14,12 @@ namespace CapaDatos
     
     public partial class tblPago
     {
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public tblPago()
-        {
-            this.tblDetallePago = new HashSet<tblDetallePago>();
-        }
-    
         public int idPago { get; set; }
-        public int fkCliente { get; set; }
+        public int fkReserva { get; set; }
         public System.DateTime Fecha { get; set; }
-        public decimal Total { get; set; }
-        public decimal Descuento { get; set; }
-        public decimal TotalPagado { get; set; }
+        public int Tipo { get; set; }
+        public decimal Monto { get; set; }
     
-        public virtual tblCliente tblCliente { get; set; }
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<tblDetallePago> tblDetallePago { get; set; }
+        public virtual tblReserva tblReserva { get; set; }
     }
 }
