@@ -1,0 +1,12 @@
+C:\Users\503141\Desktop\DAP1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\bin\Debug\pjtCLI_01_hola mundo.exe.config
+C:\Users\503141\Desktop\DAP1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\bin\Debug\pjtCLI_01_hola mundo.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\bin\Debug\pjtCLI_01_hola mundo.pdb
+C:\Users\503141\Desktop\DAP1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\obj\Debug\pjtCLI_01_hola mundo.csprojResolveAssemblyReference.cache
+C:\Users\503141\Desktop\DAP1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\obj\Debug\pjtCLI_01_hola mundo.exe
+C:\Users\503141\Desktop\DAP1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\obj\Debug\pjtCLI_01_hola mundo.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\bin\Debug\pjtCLI_01_hola mundo.exe.config
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\bin\Debug\pjtCLI_01_hola mundo.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\bin\Debug\pjtCLI_01_hola mundo.pdb
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\obj\Debug\pjtCLI_01_hola mundo.csprojResolveAssemblyReference.cache
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\obj\Debug\pjtCLI_01_hola mundo.exe
+C:\Users\Rosa Chavez\Desktop\dap1\pjtCLI_01_hola mundo\pjtCLI_01_hola mundo\obj\Debug\pjtCLI_01_hola mundo.pdb
