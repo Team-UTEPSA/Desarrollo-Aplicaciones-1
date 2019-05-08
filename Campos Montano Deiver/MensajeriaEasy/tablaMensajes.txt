@@ -1,0 +1,8 @@
+CREATE TABLE tblMensajes
+(
+	idMensaje INT GENERATED ALWAYS AS IDENTITY,
+	Mensaje VARCHAR(100) NOT NULL,
+	Estado INT NOT null,
+	
+	constraint pk_Mensajes primary key (idMensaje)
+);
