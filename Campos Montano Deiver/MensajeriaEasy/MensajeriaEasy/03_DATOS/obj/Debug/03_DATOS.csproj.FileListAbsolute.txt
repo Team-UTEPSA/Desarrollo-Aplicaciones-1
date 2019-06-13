@@ -18,3 +18,21 @@ D:\Escritorio\MensajeriaEasy\MensajeriaEasy\03_DATOS\obj\Debug\03_DATOS.csproj.C
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\03_DATOS\obj\Debug\03_DATOS.csproj.CopyComplete
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\03_DATOS\obj\Debug\03_DATOS.dll
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\03_DATOS\obj\Debug\03_DATOS.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\03_DATOS.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\03_DATOS.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\Npgsql.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.Buffers.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.Memory.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.ValueTuple.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\Npgsql.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\Npgsql.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.Buffers.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.Memory.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\bin\Debug\System.ValueTuple.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\obj\Debug\03_DATOS.csprojResolveAssemblyReference.cache
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\obj\Debug\03_DATOS.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\03_DATOS\obj\Debug\03_DATOS.pdb

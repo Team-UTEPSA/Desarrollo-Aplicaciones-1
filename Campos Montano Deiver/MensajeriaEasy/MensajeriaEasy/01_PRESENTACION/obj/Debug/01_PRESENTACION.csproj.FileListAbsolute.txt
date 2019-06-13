@@ -28,3 +28,31 @@ D:\Escritorio\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\01_PRESENT
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\01_PRESENTACION.pdb
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\_01_PRESENTACION.leerMensaje.resources
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\_01_PRESENTACION.agregarMensaje.resources
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\01_PRESENTACION.exe.config
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\01_PRESENTACION.exe
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\01_PRESENTACION.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\02_NEGOCIO.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\03_DATOS.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\Npgsql.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.ValueTuple.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.Memory.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.Buffers.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\02_NEGOCIO.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\03_DATOS.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\Npgsql.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\Npgsql.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.ValueTuple.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.Memory.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\bin\Debug\System.Buffers.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\01_PRESENTACION.csprojResolveAssemblyReference.cache
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\_01_PRESENTACION.agregarMensaje.resources
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\_01_PRESENTACION.leerMensaje.resources
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\_01_PRESENTACION.listadoMensajes.resources
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\_01_PRESENTACION.Properties.Resources.resources
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\01_PRESENTACION.csproj.GenerateResource.Cache
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\01_PRESENTACION.exe
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\01_PRESENTACION\obj\Debug\01_PRESENTACION.pdb

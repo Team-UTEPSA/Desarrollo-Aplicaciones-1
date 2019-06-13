@@ -20,3 +20,23 @@ D:\Escritorio\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\obj\Debug\02_NEGOCIO.cspr
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\obj\Debug\02_NEGOCIO.csproj.CopyComplete
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\obj\Debug\02_NEGOCIO.dll
 D:\Escritorio\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\obj\Debug\02_NEGOCIO.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\02_NEGOCIO.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\02_NEGOCIO.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\03_DATOS.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\Npgsql.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.ValueTuple.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.Memory.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.Buffers.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\03_DATOS.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\Npgsql.pdb
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\Npgsql.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.ValueTuple.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.Memory.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\bin\Debug\System.Buffers.xml
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\obj\Debug\02_NEGOCIO.csprojResolveAssemblyReference.cache
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\obj\Debug\02_NEGOCIO.dll
+D:\Proyectos\_GitHub_GroupBytes\Desarrollo-Aplicaciones-1\Campos Montano Deiver\MensajeriaEasy\MensajeriaEasy\02_NEGOCIO\obj\Debug\02_NEGOCIO.pdb
